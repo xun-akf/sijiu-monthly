@@ -1,5 +1,5 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/analysis-order-import-8EX-85Ch.js","assets/index-DmgPrSkP.js","assets/index-DEnRp9UP.css"])))=>i.map(i=>d[i]);
-import{r as l,v as X,j as e,X as ee,F as te,_ as ae,l as re,u as ne,o as ie,n as P,q as oe}from"./index-DmgPrSkP.js";const se=`<!doctype html>\r
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/analysis-order-import-CG_SAEqo.js","assets/index-MSy8cQ2E.js","assets/index-DEnRp9UP.css"])))=>i.map(i=>d[i]);
+import{r as l,v as X,j as e,X as ee,F as te,_ as re,l as ae,u as ne,o as ie,n as P,q as oe}from"./index-MSy8cQ2E.js";const se=`<!doctype html>\r
 <html lang="zh-CN">\r
 <head>\r
 <meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>\r
@@ -456,277 +456,277 @@ main>.section-head:before,main>.section>.section-head:before{content:"";position
 @media(max-width:1000px){.mom-item:nth-child(3){border-right:0}}@media(max-width:650px){.mom-item:nth-child(3){border-right:1px solid #e1e9df}.mom-item:nth-child(even){border-right:0}}\r
 .kpi-compare{display:flex;flex-direction:column;gap:3px;margin-top:auto;padding-top:10px;min-width:0}.kpi-prior{font-size:11px;color:#83968a;white-space:nowrap}.kpi-delta{font-size:11px;font-weight:750;white-space:normal;font-variant-numeric:tabular-nums;line-height:1.35}.kpi .kpi-val{white-space:normal}\r
 #kpiGrid .kpi:first-child .kpi-prior{color:#bed8c8}#kpiGrid .kpi:first-child .kpi-delta{color:#f5edd6}#kpiGrid .kpi:first-child .kpi-compare{gap:7px}#kpiGrid .kpi:not(:first-child){min-height:128px}\r
-`,ue=`.overlay{background:rgba(9,35,27,.35);backdrop-filter:blur(1px)}
-.drawer{width:clamp(640px,45vw,880px);max-width:100vw;background:#f8f8f2;border-left:1px solid #dae6da;box-shadow:-26px 0 70px rgba(13,49,35,.19);transition:transform .34s cubic-bezier(.22,.8,.2,1)}
-.drawer-head{padding:27px 34px 20px;background:#fffefa;border-bottom:1px solid #e2e9df;box-shadow:0 5px 24px #173f2808;z-index:2}
-.drawer-title{font-family:Georgia,"Songti SC","SimSun",serif;font-size:28px;font-weight:600;letter-spacing:-.5px;max-width:calc(100% - 42px)}
-.drawer-sub{font-size:12px;line-height:1.7;color:#728c7b}.drawer-tools{margin-top:17px}.drawer-tools .btn{border-radius:9px}.x-btn{top:27px;right:30px;width:38px;height:38px;background:#eff5ef;transition:background .18s,transform .18s}.x-btn:hover{background:#dcebdd;transform:rotate(90deg)}
-.drawer-nav{position:relative;z-index:2;gap:4px;padding:0 26px;background:#fffefa;border-bottom:1px solid #e5ede3;box-shadow:0 8px 16px #183e2607}.drawer-nav button{border-radius:0;padding:16px 14px 13px;border-bottom:2px solid transparent;transition:color .18s,border-color .18s,background .18s}.drawer-nav button:hover{color:#146b4d;background:#f5faf4}.drawer-nav button.on{background:transparent;color:#155f44;border-bottom-color:#b58e55}
-.drawer-body{padding:25px 34px 44px;scrollbar-color:#b9cbbd transparent}.drawer-body>.on-enter{animation:drawerContent .23s ease-out}@keyframes drawerContent{from{opacity:.55;transform:translateY(5px)}to{opacity:1;transform:none}}
-.drawer[data-detail="station"] .drawer-kpis{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.drawer[data-detail="station"] .drawer-kpi{min-height:94px;background:#fffefa;border-color:#e1e9de;border-radius:13px;padding:15px 17px;box-shadow:0 4px 18px #153a2408}.drawer[data-detail="station"] .drawer-kpi:first-child{grid-column:span 2;grid-row:span 2;display:flex;flex-direction:column;justify-content:space-between;background:#164b3a;border-color:#164b3a;min-height:198px;padding:24px}.drawer[data-detail="station"] .drawer-kpi:first-child .lab{color:#c6dfcf;font-size:12px}.drawer[data-detail="station"] .drawer-kpi:first-child .val{font-size:38px;color:#fff;letter-spacing:-1.5px}.drawer[data-detail="station"] .drawer-kpi:first-child .val small{color:#d3e9d6}.drawer[data-detail="station"] .drawer-kpi:nth-child(2),.drawer[data-detail="station"] .drawer-kpi:nth-child(3){background:#eef5ed}.drawer[data-detail="station"] .drawer-section{margin-top:26px;padding-top:23px;border-top-color:#dce7da}.drawer-section h3{font-size:16px}.drawer[data-detail="station"] .busy4{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.busy-stat{background:#fffefa;border-color:#e0e8dc;min-height:89px;padding:15px}.busy-stat b{font-size:18px}.busy-slider{height:7px;margin:17px 0}.inner-chart{background:#fffefa;border-color:#dfe9dd;padding:18px;border-radius:15px}.detail-note{background:#f0f5ee;border-color:#dfeade}.detail-note.warn{background:#fdf6e9;border-color:#efe0c8}
-.metric-hero{background:#164b3a;color:#fff;border-radius:18px;padding:28px 30px 25px;position:relative;overflow:hidden}.metric-hero:after{content:"";position:absolute;width:230px;height:230px;border:1px solid #ffffff20;border-radius:50%;right:-60px;top:-105px;pointer-events:none}.metric-hero .eyebrow{color:#d5b681}.metric-hero strong{display:block;font-size:48px;line-height:1.15;margin:15px 0 9px;letter-spacing:-2px}.metric-hero strong small{font-size:16px;letter-spacing:0;margin-left:7px;color:#d7e6d8}.metric-hero p{font-size:12px;color:#c9ded0;line-height:1.6}.metric-method{background:#fffefa;border:1px solid #e0e9de;border-radius:13px;margin-top:11px;padding:17px 19px}.metric-method b{color:#1c6247;font-size:12px}.metric-method p{color:#385a45;font-size:13px;margin:7px 0 6px;line-height:1.65}.metric-method span{color:#899c8e;font-size:11px}.metric-site-list{display:flex;flex-direction:column;gap:7px;margin-top:15px}.metric-site-row{width:100%;display:grid;grid-template-columns:34px minmax(0,1fr) auto;align-items:center;gap:12px;text-align:left;background:#fffefa;border:1px solid #e2eae0;border-radius:11px;padding:12px 15px;transition:border-color .18s,transform .18s,box-shadow .18s}.metric-site-row:hover{border-color:#92bba0;transform:translateX(-2px);box-shadow:0 7px 20px #20493212}.metric-site-rank{font-family:Georgia,serif;color:#b6925c;font-size:15px}.metric-site-name{min-width:0;display:flex;flex-direction:column;gap:3px}.metric-site-name b{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:12px;color:#28513a}.metric-site-name small,.metric-site-value small{color:#8aa091;font-size:10px}.metric-site-name i{display:block;height:3px;max-width:100%;background:linear-gradient(90deg,#7db395,#1b7455);border-radius:5px;margin-top:5px}.metric-site-value{text-align:right;display:flex;flex-direction:column;gap:3px}.metric-site-value b{font-size:12px;color:#195b43}.metric-detail .drawer-section{margin-top:25px;padding-top:22px}
-.drawer[data-detail="station"] .rule-tag{border-radius:99px}.drawer[data-detail="station"] .rule-tag.selected{background:#174e3d}.drawer[data-detail="station"] .orderrow{background:#fffefa}.drawer[data-detail="station"] .task-item{background:#fffefa;border:1px solid #e2ebe0;border-radius:11px;padding:14px;margin-bottom:8px}.drawer[data-detail="station"] .task-item:last-child{border:1px solid #e2ebe0}
-.drawer[data-detail="station"] .rule-tag{padding:9px 13px;background:#fffefa;border-color:#e0e9dc;color:#386b4f}.drawer[data-detail="station"] .rule-tag:hover{border-color:#9cc4a8}.drawer[data-detail="station"] .rule-tag.selected{color:#fff}.task-progress{padding:18px 20px;border:1px solid #dce9dc;background:#edf5eb;border-radius:13px;margin:0 0 13px}.task-progress>div{display:flex;justify-content:space-between;gap:12px;font-size:12px;color:#496d55}.task-progress strong{color:#155c42}.task-progress>i{display:block;height:8px;background:#dce9db;border-radius:99px;margin-top:12px;overflow:hidden}.task-progress>i>b{display:block;height:100%;background:#278260;border-radius:99px;transition:width .25s}
-.station-report-intro{padding:4px 2px 20px}.station-report-intro h3{font:600 26px/1.3 Georgia,"Songti SC",serif;color:#1b4b37;margin:7px 0}.station-report-intro p{font-size:11px;color:#829889}.station-hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:10px}.station-hero-side{display:grid;gap:10px}.station-diagnostic-metric{background:#fffefa;border:1px solid #e2e9df;border-radius:12px;padding:15px 17px;min-width:0}.station-diagnostic-metric>span{font-size:11px;color:#769080;font-weight:700}.station-diagnostic-metric.featured{background:#174e3b;border-color:#174e3b;padding:23px 25px;display:flex;flex-direction:column;justify-content:space-between;min-height:218px}.station-diagnostic-metric.featured>span{color:#cae1ce;font-size:12px}.station-pair{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin-top:9px;line-height:1.4}.station-pair strong{font-size:20px;color:#1e543c;font-variant-numeric:tabular-nums;letter-spacing:-.5px}.station-pair small{font-size:10px;color:#809587}.station-pair em{font-size:10px;font-style:normal;font-weight:750;color:#8a9e8c}.station-pair em.positive{color:#247b59}.station-pair em.negative{color:#ba6657}.station-diagnostic-metric.featured .station-pair strong{font-size:38px;color:#fff}.station-diagnostic-metric.featured .station-pair small{color:#c6dccc}.station-diagnostic-metric.featured .station-pair em{color:#d6ba82}.station-metric-rail{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:11px}.station-metric-rail .station-diagnostic-metric{background:#f2f7ef;padding:13px 15px}.station-metric-rail .station-pair strong{font-size:17px}.station-report-section{margin-top:26px;padding:22px 0 0;border-top:1px solid #dce7dc}.station-report-heading{margin-bottom:15px}.station-report-heading h3{font-size:18px;color:#1d4d38;margin:6px 0}.station-report-heading p{font-size:11px;color:#83988a}.station-util-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px;background:#fffefa;border:1px solid #e1e9de;border-radius:13px;padding:8px 17px}.station-util-row{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:13px 0;border-bottom:1px solid #edf1ea;min-width:0}.station-util-row:nth-last-child(-n+2){border-bottom:0}.station-util-row>span{color:#6e8775;font-size:11px;min-width:75px}.station-util-row>.station-pair{margin:0;align-items:flex-end;text-align:right}.station-util-row .station-pair strong{font-size:17px}.station-util-row>b{font-size:11px;color:#8b987f}.station-potential{background:#edf5ec;border:1px solid #dceadb;border-radius:13px;padding:18px 20px;margin-top:12px}.station-potential>div{display:flex;align-items:flex-start;justify-content:space-between;gap:14px}.station-potential>div>span{font-size:12px;font-weight:800;color:#26533d}.station-potential .station-pair{margin:0;text-align:right;align-items:flex-end}.station-potential .station-pair strong{font-size:23px}.station-potential p{font-size:10px;color:#829386;margin:4px 0 0}.station-conclusion{background:#fff9ee;border:1px solid #ebdcc0;border-radius:14px;padding:21px 23px}.station-conclusion h3{font-size:17px;color:#5c4c32;margin:6px 0}.station-conclusion p{font-size:12px;line-height:1.7;color:#665c49}.station-tou{background:#fffefa;border:1px solid #e3eade;border-radius:13px;padding:10px 18px}.station-tou-row{display:grid;grid-template-columns:40px minmax(70px,1fr) minmax(160px,auto);gap:11px;align-items:center;padding:10px 0;border-bottom:1px solid #eef2ec}.station-tou-row:last-child{border-bottom:0}.station-tou-name{font-size:11px;color:#496852;font-weight:800}.station-tou-track{height:8px;background:#eef2eb;border-radius:99px;overflow:hidden}.station-tou-track i{display:block;height:100%;border-radius:99px}.station-tou-row .station-pair{margin:0;align-items:flex-end;text-align:right}.station-tou-row .station-pair strong{font-size:14px}.user-rail{margin:0 0 12px}
-.metric-help{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;width:16px;height:16px;margin-left:4px;border:1px solid #bfd3c4;border-radius:50%;background:transparent;color:#56846b;font-size:10px;font-weight:800;line-height:1;cursor:help;padding:0}.metric-help:hover,.metric-help:focus-visible{background:#e4f1e8;color:#145d43}.station-diagnostic-metric.featured .metric-help{border-color:#aacbb7;color:#d9ebdc}.metric-help-content{display:none}.metric-tooltip{position:fixed;z-index:90;max-height:min(70vh,390px);overflow:auto;background:#fffefa;border:1px solid #d9e7da;border-radius:12px;box-shadow:0 18px 42px #123e2b30;padding:15px 17px;color:#345543;font-size:11px;line-height:1.55;pointer-events:none}.metric-tooltip>b{display:block;color:#15553d;font-size:13px;margin-bottom:9px}.metric-tooltip>span{display:block;border-top:1px solid #ecf1e9;padding:7px 0}.metric-tooltip>span strong{display:block;color:#7c9984;font-size:10px;margin-bottom:2px}.kpi .metric-help{flex:none}
-.station-tou-row{grid-template-columns:minmax(74px,92px) minmax(0,1fr) minmax(155px,auto)}
-.station-tou-name{display:inline-flex;align-items:center;gap:4px;white-space:nowrap;min-width:0}
-.station-tou-name .metric-help{flex:none;margin-left:0}
-.user-rail{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.user-rail .station-diagnostic-metric{min-height:106px;background:#fffefa;padding:17px 19px}
-.user-rail .station-diagnostic-metric:first-child{background:#e8f2e9;border-color:#cee2d2}
-.user-rail .station-diagnostic-metric:nth-child(4){background:#f4f5e9;border-color:#e2e3cb}
-.user-rail .station-diagnostic-metric:last-child{grid-column:1/-1;min-height:0;display:flex;align-items:center;justify-content:space-between;gap:16px;background:#edf4ed}
-.user-rail .station-diagnostic-metric:last-child .station-pair{margin-top:0;align-items:flex-end;text-align:right}
-.user-rail .station-diagnostic-metric>span{display:inline-flex;align-items:center;gap:3px}
-.user-rail .station-diagnostic-metric>span .metric-help{flex:none;margin-left:3px}
-.station-users-report .station-report-intro{padding-bottom:14px}
-.station-audience{display:grid;gap:10px}
-.station-audience-overview{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:10px}
-.station-audience-overview>.station-diagnostic-metric{display:flex;flex-direction:column;justify-content:space-between;min-height:176px;padding:23px 25px;background:#174a39;border-color:#174a39;box-shadow:0 12px 26px #174a3915}
-.station-audience-overview>.station-diagnostic-metric>span{color:#d2e5d4;font-size:12px}
-.station-audience-overview>.station-diagnostic-metric .metric-help{color:#e8f4e9;border-color:#91b4a1}
-.station-audience-overview>.station-diagnostic-metric .station-pair strong{color:#fffefa;font-size:39px;letter-spacing:-1px}
-.station-audience-overview>.station-diagnostic-metric .station-pair small{color:#bed6c7}
-.station-audience-overview>.station-diagnostic-metric .station-pair em{color:#e0c58f}
-.station-audience-overview-side{display:grid;grid-template-rows:repeat(2,minmax(0,1fr));gap:10px}
-.station-audience-overview-side .station-diagnostic-metric{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 17px;background:#fffefa}
-.station-audience-overview-side .station-diagnostic-metric .station-pair{align-items:flex-end;text-align:right;margin:0;gap:3px}
-.station-audience-overview-side .station-diagnostic-metric .station-pair strong{font-size:20px;white-space:nowrap}
-.station-audience-retention{background:#fffefa;border:1px solid #e1e9de;border-radius:13px;overflow:hidden}
-.station-audience-label{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 17px;border-bottom:1px solid #e9eee6;background:#f5f7ee}
-.station-audience-label>span:last-child{font-size:10px;color:#829584}
-.station-audience-retention-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
-.station-audience-retention-grid .station-diagnostic-metric{min-height:88px;border:0;border-radius:0;padding:14px 17px;background:transparent}
-.station-audience-retention-grid .station-diagnostic-metric:nth-child(odd){border-right:1px solid #e9eee6}
-.station-audience-retention-grid .station-diagnostic-metric:nth-child(-n+2){border-bottom:1px solid #e9eee6}
-.station-audience-retention-grid .station-diagnostic-metric .station-pair{margin-top:6px;gap:2px}
-.station-audience-retention-grid .station-diagnostic-metric .station-pair strong{font-size:19px}
-.station-audience-retention-grid .station-diagnostic-metric>span{display:inline-flex;align-items:center;gap:3px}
-.station-audience-retention-grid .station-diagnostic-metric>span .metric-help{flex:none;margin-left:2px}
-.station-users-report .detail-note.warn{margin-top:10px;padding:10px 13px;font-size:10px;line-height:1.55}
-.station-users-report .station-report-section{margin-top:20px;padding-top:18px}
-.station-users-report .station-tou{padding:2px 16px;background:#fffefa}
-.station-users-report .station-tou-row{grid-template-columns:minmax(62px,80px) minmax(0,1fr) minmax(155px,auto);gap:14px;min-height:59px;padding:8px 0}
-.station-users-report .station-tou-name{font-size:11px}
-.station-users-report .station-tou-track{height:7px;background:#ecf1e9}
-.station-users-report .station-tou-row .station-pair{gap:2px}
-.station-users-report .station-tou-row .station-pair strong{font-size:14px}
-.station-users-report .station-tou-row .station-pair small,.station-users-report .station-tou-row .station-pair em{font-size:9px}
-.station-users-report .note{margin-top:7px;font-size:10px;line-height:1.5}
-.metric-detail .drawer-section .panel-top:has(.metric-site-search){flex-wrap:wrap}
-.metric-site-search{display:inline-flex;align-items:center;gap:6px;margin-left:auto;padding:7px 10px;border:1px solid #dce8dc;border-radius:9px;background:#fffefa;color:#6b9177;min-width:170px;max-width:230px;transition:border-color .16s,box-shadow .16s}
-.metric-site-search:focus-within{border-color:#67a783;box-shadow:0 0 0 3px #67a78322}
-.metric-site-search span{font-size:18px;line-height:1}
-.metric-site-search input{width:100%;min-width:0;border:0;outline:0;background:transparent;color:#1e5039;font:inherit;font-size:11px}
-.metric-site-search input::placeholder{color:#91a397}
-.metric-site-row[hidden],.metric-search-empty[hidden]{display:none}
-.metric-search-empty{padding:18px;text-align:center;color:#829786;font-size:12px;background:#f4f8f2;border-radius:10px;margin-top:12px}
-@media(max-width:700px){.station-hero-grid{grid-template-columns:1fr}.station-diagnostic-metric.featured{min-height:150px}.station-metric-rail{grid-template-columns:repeat(2,minmax(0,1fr))}.station-util-list{grid-template-columns:1fr}.station-util-row:nth-last-child(2){border-bottom:1px solid #edf1ea}.station-tou-row{grid-template-columns:34px 1fr;gap:6px}.station-tou-row .station-pair{grid-column:2;align-items:flex-start;text-align:left}}
-@media(max-width:700px){.station-tou-row{grid-template-columns:minmax(76px,96px) minmax(0,1fr);gap:8px}.station-tou-row .station-pair{grid-column:2;grid-row:1;align-items:flex-end;text-align:right}.station-tou-row .station-tou-track{grid-column:1/-1;grid-row:2}.user-rail{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:520px){.user-rail{grid-template-columns:1fr}.user-rail .station-diagnostic-metric:last-child{grid-column:auto}}
-@media(max-width:700px){.station-users-report .station-tou-row{grid-template-columns:minmax(72px,92px) minmax(0,1fr)}.station-users-report .station-tou-row .station-pair{grid-column:2;grid-row:1}.station-users-report .station-tou-row .station-tou-track{grid-column:1/-1;grid-row:2}}
-@media(max-width:560px){.station-audience-overview{grid-template-columns:1fr}.station-audience-overview>.station-diagnostic-metric{min-height:136px}.station-audience-overview-side{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:none}.station-audience-overview-side .station-diagnostic-metric{display:block}.station-audience-overview-side .station-diagnostic-metric .station-pair{align-items:flex-start;text-align:left;margin-top:8px}.station-audience-retention-grid .station-diagnostic-metric{padding:12px}.station-audience-retention-grid .station-diagnostic-metric .station-pair strong{font-size:17px}}
-@media(max-width:900px){.drawer{width:min(720px,94vw)}.drawer-head{padding:20px 23px 17px}.drawer-body{padding:20px 22px 30px}.drawer[data-detail="station"] .busy4{grid-template-columns:repeat(2,minmax(0,1fr))}}
-@media(max-width:650px){.drawer{width:100vw}.drawer-title{font-size:22px}.drawer-nav{padding:0 12px}.drawer-nav button{padding:12px 10px;font-size:11px}.drawer-body{padding:16px 14px 28px}.drawer[data-detail="station"] .drawer-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.drawer[data-detail="station"] .drawer-kpi:first-child{grid-column:span 2;grid-row:auto;min-height:135px}.drawer[data-detail="station"] .drawer-kpi:first-child .val{font-size:32px}.metric-hero strong{font-size:37px}.metric-site-row{grid-template-columns:27px minmax(0,1fr) auto;gap:7px;padding:10px}}
-@media(prefers-reduced-motion:reduce){.drawer,.drawer-body>.on-enter,.x-btn,.metric-site-row{animation:none;transition:none}}
-`,me=`// Presentation-only station diagnosis. All values come from the current and previous
-// order snapshots; missing or non-comparable history is never estimated.
-const metricExplanations={
- kwh:['有效充电电量','有效订单电量逐笔相加','订单电量、服务进程、订单号','按订单开始日期归属自然月；去重并排除一心社区。'],
- valid:['有效充电订单','去重后已完成且电量大于0的订单数','订单号、服务进程、充电电量','同一自然月、当前运营商或场站范围。'],
- orders:['有效充电订单','去重后已完成且电量大于0的订单数','订单号、服务进程、充电电量','同一自然月、当前运营商或场站范围。'],
- service:['订单服务费（应收）','有效订单服务费逐笔相加','订单运营实收服务费','订单应收口径，不等于财务实际收入或毛利。'],
- perKwhService:['单度订单服务费','有效订单服务费 ÷ 有效充电电量','订单运营实收服务费、充电电量','电量为0时不计算；非财务单度毛利。'],
- gunDay:['枪日均服务费','有效订单服务费 ÷ 观察枪口数 ÷ 统计天数','订单服务费、充电枪编号、开始日期','枪数为订单中观察到的不同枪口；非设备台账枪数。'],
- util:['时间利用率','有效订单充电分钟 ÷（观察枪口数 × 统计天数 × 1440分钟）×100%','订单充电时长、充电枪编号','订单估算的充电占用，不代表设备在线或停车占位。'],
- users:['可识别用户数','有效订单可识别手机号去重计数','会员手机号、订单状态、电量','平台共用昵称不当个人；每月、每筛选范围独立去重。'],
- perUser:['人均充电量','可识别用户订单电量 ÷ 可识别用户数','会员手机号、有效订单电量','仅计算可识别手机号订单；人数为0时不计算。'],
- gun:['观察枪口数','当月订单中不同充电枪编号的数量','充电枪编号','仅代表订单观察枪口，不代表设备台账或可用状态。'],
- userCoverage:['订单识别覆盖率','可识别手机号的有效订单数 ÷ 有效订单数 ×100%','会员手机号、订单号、服务进程、电量','按当前自然月有效订单统计。'],
- repeatRate:['本月复购率','本月有效充电至少2次的可识别用户数 ÷ 本月有效充电可识别用户数 ×100%','去重后的有效订单号、会员手机号、服务进程、电量','当前自然月；手机号优先，平台共用昵称不作为个人ID。'],
- rollingRepeatRate:['30天滚动复购率','本月有订单且其本月某笔订单之前30天内另有有效订单的可识别用户数 ÷ 本月有效充电可识别用户数 ×100%','本月及上月有效订单开始时间、去标识的同一手机号关联索引','按订单开始时刻回看30×24小时；允许跨月；缺少可关联的上月逐笔历史时不计算。'],
- repeat:['月内复购率','本月有效订单至少2笔的手机号人数 ÷ 本月可识别用户数 ×100%','会员手机号、订单号、服务进程、电量','同一自然月内去重，不等于跨月留存。'],
- repeatUsers:['月内复购用户','本月有效订单至少2笔的可识别手机号去重人数','会员手机号、订单号','同一自然月当前筛选范围。'],
- retentionRate:['跨月留存率','上月与本月均活跃的可识别手机号人数 ÷ 上月活跃手机号人数 ×100%','两个月有效订单的会员手机号','缺少上月同口径订单时不计算。'],
- busyUtil:['忙时充电占用率','忙时实际充电枪时 ÷ 忙时理论枪时 ×100%','有效订单开始/结束时间、充电枪编号','忙时按订单观察选取；不代表车辆占位或故障。'],
- actualHours:['忙时实际充电枪时','忙时有效订单在对应时段的充电分钟之和 ÷60','有效订单开始/结束时间、充电枪编号','订单观察枪口的忙时充电占用。'],
- idleHours:['理论未充电枪时','观察枪口数 × 忙时天数与小时数－实际充电枪时','充电枪编号、订单充电时段','理论值，不代表实际空闲车位或设备可用。'],
- power:['订单平均功率','有效订单充电电量 ÷ 有效订单充电小时','订单电量、充电时长','订单侧平均值，不等于设备额定功率。'],
- potential:['模拟新增电量','理论未充电枪时 × 订单平均功率 × 承接比例','忙时枪时、订单电量与时长、滑块比例','情景估算，不代表已确认损失或确定增量。'],
- deviceAvailability:['设备可用情况','尚无设备可用率计算；缺少设备状态记录','待接入设备台账和状态日志','订单不能证明设备是否可用，当前显示待接入。'],
- parkingOccupancy:['非充电占桩','尚无车辆停车占位计算；缺少停车记录','待接入停车或车位占用记录','充电枪未充电不能直接推断车辆占位。'],
- flowOrders:['渠道订单数','对应流量入口的有效订单数','用户昵称、订单号、服务进程、电量','蚂蚁充电→新电途；快电→快电；数字1开头→蔚景云；其余→其他。'],
- flowKwh:['渠道电量','对应流量入口有效订单电量之和','用户昵称、订单电量','按渠道映射归类；蔚景云是渠道，不是运营商。'],
- tou:['分时充电电量','对应尖、峰、平、谷或深谷时段的订单电量之和','订单分时电量字段','分时电量不直接推算分时收入、成本或毛利。'],
-};
-function metricHelp(key,label){const [definition,formula,source,scope]=metricExplanations[key]||[label,'按当前订单字段汇总','订单明细','当前自然月及筛选范围'];return \`<button type="button" class="metric-help" data-metric-help="\${key}" aria-label="\${safe(label)}计算口径" aria-expanded="false">?</button><span class="metric-help-content" hidden><b>\${safe(label)}</b><span><strong>指标定义</strong>\${safe(definition)}</span><span><strong>计算公式</strong>\${safe(formula)}</span><span><strong>数据来源</strong>\${safe(source)}</span><span><strong>统计口径</strong>\${safe(scope)}</span><span><strong>环比说明</strong>完整月比上月完整月；未结束月比上月同期。增减量＝本月－上月；环比率＝增减量÷上月值×100%；百分比另显示百分点差。缺少同口径历史数据则不计算。</span></span>\`}
-function metricHelpInline(key,label){return metricHelp(key,label).replace('<button type="button"','<span role="button" tabindex="0"').replace('</button>','</span>')}
-function hideMetricTooltip(){document.querySelector('.metric-tooltip')?.remove();document.querySelectorAll('[data-metric-help][aria-expanded="true"]').forEach(node=>node.setAttribute('aria-expanded','false'))}
-function showMetricTooltip(anchor){const content=anchor.nextElementSibling;if(!content?.classList.contains('metric-help-content'))return;hideMetricTooltip();const tip=document.createElement('div');tip.className='metric-tooltip';tip.setAttribute('role','tooltip');tip.innerHTML=content.innerHTML;document.body.appendChild(tip);anchor.setAttribute('aria-expanded','true');const rect=anchor.getBoundingClientRect(),width=Math.min(330,window.innerWidth-24);tip.style.width=width+'px';tip.style.left=Math.max(12,Math.min(rect.left-40,window.innerWidth-width-12))+'px';tip.style.top=(rect.bottom+10+tip.offsetHeight>window.innerHeight?Math.max(12,rect.top-tip.offsetHeight-10):rect.bottom+10)+'px'}
-document.addEventListener('mouseover',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor)showMetricTooltip(anchor)});
-document.addEventListener('mouseout',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor&&!anchor.contains(event.relatedTarget))hideMetricTooltip()});
-document.addEventListener('focusin',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor)showMetricTooltip(anchor)});
-document.addEventListener('focusout',event=>{if(event.target.closest?.('[data-metric-help]'))hideMetricTooltip()});
-document.addEventListener('click',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor){event.preventDefault();event.stopPropagation();const open=anchor.getAttribute('aria-expanded')==='true';if(open)hideMetricTooltip();else showMetricTooltip(anchor)}else if(!event.target.closest?.('.metric-tooltip'))hideMetricTooltip()},true);
-document.addEventListener('keydown',event=>{if(event.key==='Escape')hideMetricTooltip();if((event.key==='Enter'||event.key===' ')&&event.target.matches?.('[data-metric-help]')){event.preventDefault();event.target.click()}});
-document.addEventListener('scroll',hideMetricTooltip,true);
-function stationComparison(st){
-  const previous=window.__REPORT_INTELLIGENCE_CONTEXT__?.previous;
-  const expected=new Date(Date.UTC(reportYear,reportMonthNumber-2,1)).toISOString().slice(0,7);
-  const prior=previous?.month===expected?previous.stations?.[st.name]:null;
-  const today=new Date();
-  const partial=reportYear===today.getFullYear()&&reportMonthNumber===today.getMonth()+1;
-  const limit=partial?Math.min(today.getDate(),days.length):days.length;
-  return {prior,partial,limit,previousMonth:expected};
-}
-function repeatInScope(payload,priorPayload,scope,throughDay){
-  const index=payload?.userIndex;
-  if(!index?.events)return null;
-  const current=index.events.filter(event=>(scope==='all'||event[3]===scope||event[4]===scope)&&(throughDay==null||event[2]<=throughDay));
-  const users=new Map();for(const event of current){const times=users.get(event[0])||[];times.push(event[1]);users.set(event[0],times)}
-  const monthUsers=[...users.values()].filter(times=>times.length>=2).length;
-  const previousIndex=priorPayload?.userIndex;
-  const linked=previousIndex?.keyId===index.keyId&&Array.isArray(previousIndex.events);
-  let rollingUsers=null;
-  if(linked){rollingUsers=0;const earlier=new Map();for(const event of previousIndex.events){if(scope!=='all'&&event[3]!==scope&&event[4]!==scope)continue;const times=earlier.get(event[0])||[];times.push(event[1]);earlier.set(event[0],times)}for(const [user,times] of users){const all=[...(earlier.get(user)||[]),...times];if(times.some(time=>all.some(other=>other<time&&time-other<=2592000000)))rollingUsers++}}
-  return {repeatRate:users.size?monthUsers/users.size*100:null,rollingRepeatRate:users.size&&rollingUsers!=null?rollingUsers/users.size*100:null};
-}
-function repeatComparable(scope,key,fallbackCurrent,fallbackPrevious){
-  const ctx=window.__REPORT_INTELLIGENCE_CONTEXT__||{},previous=ctx.previous;
-  const today=new Date(),partial=reportYear===today.getFullYear()&&reportMonthNumber===today.getMonth()+1;
-  const limit=partial?Math.min(today.getDate(),days.length):null;
-  const current=repeatInScope(DB,previous,scope,limit);
-  const prior=previous?repeatInScope(previous,ctx.beforePrevious,scope,limit):null;
-  return {current:current?.[key]??(!partial?fallbackCurrent:null),previous:prior?.[key]??(!partial?fallbackPrevious:null)};
-}
-// Keep the original user and channel layout; extend its metrics from the same
-// order snapshots used by the station diagnosis.
-const renderAudienceBase=renderAudience;
-renderAudience=function(){
-  renderAudienceBase();
-  const root=document.getElementById('audienceMetrics');if(!root)return;
-  const cards=[['30天滚动复购率','rollingRepeatRate']].map(([label,key])=>{
-    const priorScope=window.__REPORT_INTELLIGENCE_CONTEXT__?.previous;
-    const priorStats=(state.operator==='all'?priorScope?.overall:priorScope?.operators?.[state.operator])?.stats;
-    const pair=repeatComparable(state.operator==='all'?'all':state.operator,key,scopeStats()[key],priorStats?.[key]);
-    const value=typeof pair.current==='number'?cn(pair.current,2)+'%':key==='rollingRepeatRate'?'待补历史数据':'待核验';
-    const prior=typeof pair.previous==='number'?cn(pair.previous,2)+'%':'暂无对比数据';
-    const delta=typeof pair.current==='number'&&typeof pair.previous==='number'?pair.current-pair.previous:null;
-    const point=delta===null?'暂无对比数据':\`\${delta>=0?'+':''}\${cn(delta,2)} 个百分点\`;
-    const relative=delta===null?'':pair.previous?\` · \${delta>=0?'+':''}\${cn(delta/pair.previous*100,1)}%\`:' · 上月为0，环比率不可计算';
-    return \`<div class="audience-repeat"><small>\${label} \${metricHelp(key,label)}</small><strong>\${value}</strong><span>上月同期 \${prior}</span><em>\${point}\${relative}</em></div>\`;
-  });
-  root.innerHTML=root.innerHTML.replace(/<div><small>(有效用户数|月内复购率)<\\/small><strong>[^<]*<\\/strong><\\/div>/g,'')+cards.join('');
-};
-function stationComparable(st,key){
-  const {prior,partial,limit}=stationComparison(st);
-  if(key==='repeatRate'||key==='rollingRepeatRate')return repeatComparable(st.name,key,st[key],prior?.[key]);
-  if(!prior)return {current:st[key],previous:null,reason:'上月无同名场站订单'};
-  if(!partial)return {current:st[key],previous:prior[key]};
-  const dailyKey={kwh:'kwh',valid:'orders',service:'service'}[key];
-  if(dailyKey){
-    const currentDays=st.daily?.[dailyKey],priorDays=prior.daily?.[dailyKey];
-    if(Array.isArray(currentDays)&&Array.isArray(priorDays))return {current:sum(currentDays.slice(0,limit)),previous:sum(priorDays.slice(0,limit))};
-  }
-  if(key==='perKwhService'){
-    const c=stationComparable(st,'kwh'),p=stationComparable(st,'service');
-    return {current:c.current? p.current/c.current:null,previous:c.previous? p.previous/c.previous:null};
-  }
-  if(key==='gunDay'||key==='util'){
-    if(!st.gun||!prior.gun)return {current:null,previous:null};
-    const currentDays=st.daily?.[key==='gunDay'?'service':'minutes'];
-    const priorDays=prior.daily?.[key==='gunDay'?'service':'minutes'];
-    if(!Array.isArray(currentDays)||!Array.isArray(priorDays))return {current:null,previous:null};
-    const c=sum(currentDays.slice(0,limit)),p=sum(priorDays.slice(0,limit));
-    return key==='gunDay'?{current:c/st.gun/limit,previous:p/prior.gun/limit}:{current:c/(st.gun*limit*1440)*100,previous:p/(prior.gun*limit*1440)*100};
-  }
-  return {current:st[key],previous:null,reason:'缺少上月同期可去重的逐日数据'};
-}
-function stationPair(current,previous,unit,digits=2,percent=false){
-  const isNumber=value=>typeof value==='number'&&Number.isFinite(value);
-  const now=isNumber(current)?cn(current,digits)+' '+unit:'待核验';
-  if(!isNumber(previous))return \`<div class="station-pair"><strong>\${now}</strong><small>上月：暂无对比数据</small><em>暂无对比数据</em></div>\`;
-  const diff=isNumber(current)?current-previous:null;
-  const relative=diff!=null&&previous!==0?\`\${diff>=0?'+':''}\${cn(diff/previous*100,1)}%\`:'上月为0，环比率不可计算';
-  const change=diff==null?'暂无对比数据':\`\${diff>=0?'+':''}\${cn(diff,digits)} \${percent?'百分点':unit}\`;
-  return \`<div class="station-pair"><strong>\${now}</strong><small>上月 \${cn(previous,digits)} \${unit}</small><em class="\${diff!=null&&diff<0?'negative':'positive'}">\${change} · \${relative}</em></div>\`;
-}
-function stationMetric(st,label,key,unit,digits=2,percent=false,featured=false){
-  const pair=stationComparable(st,key);
-  return \`<div class="station-diagnostic-metric \${featured?'featured':''}"><span>\${label} \${metricHelp(key,label)}</span>\${stationPair(pair.current,pair.previous,unit,digits,percent)}</div>\`;
-}
-function stationBusyMetric(st,label,key,unit,digits=1,percent=false){
-  const {prior,partial}=stationComparison(st);
-  const current=st.busy?.[key],previous=prior&&!partial?prior.busy?.[key]:null;
-  return \`<div class="station-util-row"><span>\${label} \${metricHelp(key,label)}</span>\${stationPair(current,previous,unit,digits,percent)}</div>\`;
-}
-function stationPotential(st){
-  const {prior,partial}=stationComparison(st);
-  const estimate=site=>site?.busy?.idleHours!=null&&site?.busy?.power!=null?site.busy.idleHours*site.busy.power*state.busyCapture/100:null;
-  return stationPair(estimate(st),prior&&!partial?estimate(prior):null,'度',0);
-}
-function stationTou(st){
-  const {prior,partial}=stationComparison(st);
-  const keys=['尖','峰','平','谷','深谷'];
-  const colors=['#bd7951','#b69b5e','#7ba995','#398a72','#175e4b'];
-  const total=sum(keys.map(key=>Number(st.tou?.[key]||0)));
-  return \`<div class="station-tou">\${keys.map((key,index)=>{const current=st.tou?.[key],previous=prior&&!partial?prior.tou?.[key]:null;return \`<div class="station-tou-row"><span class="station-tou-name">\${key}时</span><div class="station-tou-track"><i style="width:\${total?Number(current||0)/total*100:0}%;background:\${colors[index]}"></i></div>\${stationPair(current,previous,'度',1)}</div>\`}).join('')}</div>\`;
-}
-function stationFlow(st){
-  const {prior,partial}=stationComparison(st),mode=state.flowMode;
-  const previousByName=Object.fromEntries((prior?.flows||[]).map(flow=>[flow.name,flow]));
-  const total=sum(st.flows.map(flow=>Number(flow[mode]||0)));
-  return \`<div class="station-tou">\${st.flows.map((flow,index)=>{const current=Number(flow[mode]||0),previous=prior&&!partial?previousByName[flow.name]?.[mode]:null;return \`<div class="station-tou-row"><span class="station-tou-name">\${safe(flow.name)}</span><div class="station-tou-track"><i style="width:\${total?current/total*100:0}%;background:\${flowColors[index]||'#679d82'}"></i></div>\${stationPair(current,previous,mode==='orders'?'笔':'度',mode==='orders'?0:1)}</div>\`}).join('')}</div>\`;
-}
-function renderStationReport(st){
-  const {partial,limit,prior,previousMonth}=stationComparison(st);
-  const busy=st.busy;
-  const note=siteIssue(st);
-  return \`<div class="on-enter station-report"><div class="station-report-intro"><span class="eyebrow">STATION PERFORMANCE / 单站经营诊断</span><h3>本月经营脉搏</h3><p>\${reportMonth} \${partial?'1—'+limit+'日对比 '+previousMonth+' 同期':'整月对比 '+previousMonth+' 整月'} · \${prior?'同名场站已关联':'上月场站暂无对比数据'}</p></div><div class="station-hero-grid">\${stationMetric(st,'充电总电量','kwh','度',1,false,true)}<div class="station-hero-side">\${stationMetric(st,'有效订单','valid','笔',0)}\${stationMetric(st,'订单服务费（应收）','service','元',2)}</div></div><div class="station-metric-rail">\${stationMetric(st,'单度订单服务费','perKwhService','元/度',3)}\${stationMetric(st,'枪日均服务费','gunDay','元/枪/日',2)}\${stationMetric(st,'时间利用率','util','%',2,true)}\${stationMetric(st,'可识别用户数','users','人',0)}\${stationMetric(st,'人均充电量','perUser','度/人',1)}\${stationMetric(st,'观察枪口数','gun','把',0)}</div><section class="station-report-section"><div class="station-report-heading"><span class="eyebrow">CAPACITY / 设备与承接</span><h3>忙时充电占用与提升空间</h3><p>订单观察到的充电行为，不能证明车位空闲或设备故障。</p></div><div class="station-util-list">\${stationBusyMetric(st,'忙时充电占用率','busyUtil','%',1,true)}\${stationBusyMetric(st,'忙时实际充电枪时','actualHours','小时',1)}\${stationBusyMetric(st,'理论未充电枪时','idleHours','小时',1)}\${stationBusyMetric(st,'订单平均功率','power','kW',1)}<div class="station-util-row"><span>设备可用情况 \${metricHelp('deviceAvailability','设备可用情况')}</span><b>待接设备记录</b></div><div class="station-util-row"><span>非充电占桩 \${metricHelp('parkingOccupancy','非充电占桩')}</span><b>待接停车记录</b></div></div><div class="detail-note">忙时为 \${busy.hours.map(h=>String(h).padStart(2,'0')+':00').join('、')}；理论未充电枪时不代表车辆停车占位或设备可用时间。</div><div class="station-potential"><div><span><span class="potential-caption">新增需求承接 \${state.busyCapture}% 时，模拟增量</span> \${metricHelp('potential','模拟增量')}</span><div id="potentialLabel">\${stationPotential(st)}</div></div><input type="range" min="0" max="40" step="5" class="busy-slider" id="busySlider" value="\${state.busyCapture}"/><p>理论未充电枪时 × 订单平均功率 × 承接率。仅为情景估算，不代表确定增量。</p></div></section><section class="station-report-section"><div class="station-report-heading"><span class="eyebrow">DAILY SIGNAL / 每日走势</span><h3>充电电量趋势</h3><p>悬停查看每日真实订单记录，结合异常订单和流量来源核查变化。</p></div><div class="inner-chart"><svg class="linechart" data-site-svg="1" viewBox="0 0 770 205" preserveAspectRatio="none">\${svgChart(st.daily.kwh,'kwh',true,false)}</svg></div><div class="detail-note">近7日电量变化 \${trendText(st.weekly.kwh)}；不能直接归因于调价、竞站或活动。</div></section><section class="station-report-section station-conclusion"><span class="eyebrow">DIAGNOSIS / 经营结论</span><h3>变化判断与核查建议</h3><p><b>需要核查：</b>\${safe(note.label)}。可切换“异常订单”定位具体订单；用户来源、分时电量和实际价格需要结合相应证据判断。</p></section></div>\`;
-}
-function renderStationUsersReport(st){
-  const userMetric=(label,key,unit,digits=1,percent=false)=>{
-    const pair=stationComparable(st,key);
-    const detail=key==='rollingRepeatRate'&&pair.current==null
-      ?'<div class="station-pair"><strong>待补历史数据</strong><small>上月：暂无对比数据</small><em>请重导可关联的上月订单</em></div>'
-      :stationPair(pair.current,pair.previous,unit,digits,percent);
-    return \`<div class="station-diagnostic-metric"><span>\${label} \${metricHelp(key,label)}</span>\${detail}</div>\`;
-  };
-  return \`<div class="on-enter station-report station-users-report">
-    <div class="station-report-intro"><span class="eyebrow">CUSTOMER & TARIFF / 用户与分时</span><h3>用户与流量结构</h3><p>同一自然月、同名场站对比；复购指标按去重后的跨月逐笔索引计算，缺少历史时不推算。</p></div>
-    <div class="station-audience">
-      <div class="station-audience-overview">\${userMetric('可识别用户数','users','人',0)}<div class="station-audience-overview-side">\${userMetric('人均充电量','perUser','度/人',1)}\${userMetric('订单识别覆盖率','userCoverage','%',1,true)}</div></div>
-      <div class="station-audience-retention"><div class="station-audience-label"><span class="eyebrow">LOYALTY / 复购与留存</span><span>本月有效充电用户</span></div><div class="station-audience-retention-grid">\${userMetric('本月复购率','repeatRate','%',1,true)}\${userMetric('30天滚动复购率','rollingRepeatRate','%',1,true)}\${userMetric('月内复购用户','repeatUsers','人',0)}\${userMetric('跨月留存','retentionRate','%',1,true)}</div></div>
-    </div>
-    <div class="detail-note warn">平台共用昵称不是个人用户ID。用户按可识别手机号去重；30天滚动复购允许跨月，旧快照缺少逐笔用户索引时显示暂无对比数据。</div>
-    <section class="station-report-section station-flow-section"><div class="panel-top"><h3>流量入口占比</h3><div class="seg"><button data-flowmode="orders" class="\${state.flowMode==='orders'?'on':''}">按订单</button><button data-flowmode="kwh" class="\${state.flowMode==='kwh'?'on':''}">按电量</button></div></div>\${stationFlow(st)}<div class="note">蚂蚁充电→新电途；快电→快电；数字1开头→蔚景云；其余→其他。蔚景云是流量渠道。</div></section>
-    <section class="station-report-section station-time-section"><div class="station-report-heading"><span class="eyebrow">TIME OF USE / 分时结构</span><h3>尖峰平谷电量</h3><p>每个时段均展示上月值与变化；缺少同期分时数据时明确标注。</p></div>\${stationTou(st)}<div class="note">仅展示订单分时电量，不据此推算月报购电成本或经营毛利。</div></section>
-  </div>\`;
-}
-const renderMetricDrawerBase=renderMetricDrawer;
-renderMetricDrawer=function(sc,metric){
-  if(state.metricSiteSearchMetric!==metric){state.metricSiteSearch='';state.metricSiteSearchMetric=metric}
-  const markup=renderMetricDrawerBase(sc,metric);
-  const search=\`<label class="metric-site-search"><span aria-hidden="true">⌕</span><input id="metricSiteSearch" type="search" aria-label="搜索场站名称" placeholder="搜索场站" value="\${safe(state.metricSiteSearch||'')}" autocomplete="off"></label>\`;
-  return markup.replace(/(<h3>[^<]* · 场站贡献与明细<\\/h3>)/,\`$1\${search}\`).replace('<div class="metric-site-list">','<div class="metric-search-empty" id="metricSearchEmpty" hidden>没有匹配的场站</div><div class="metric-site-list">');
-};
-function applyMetricSiteSearch(){
-  const root=document.getElementById('drawerBody'),rows=[...(root?.querySelectorAll?.('.metric-site-row')||[])];
-  const term=String(state.metricSiteSearch||'').trim().toLocaleLowerCase();let visible=0;
-  for(const row of rows){const name=row.querySelector('.metric-site-name b')?.textContent||'';row.hidden=!name.toLocaleLowerCase().includes(term);if(!row.hidden)visible++}
-  const empty=document.getElementById('metricSearchEmpty');if(empty)empty.hidden=visible>0||!term;
-}
-const paintDrawerBase=paintDrawer;
-paintDrawer=function(){paintDrawerBase();if(state.drawerType==='metric')applyMetricSiteSearch()};
-document.addEventListener('input',event=>{
-  if(event.target?.id!=='metricSiteSearch')return;
-  state.metricSiteSearch=event.target.value;applyMetricSiteSearch();
-});
-`,R=(i,o=0)=>new Intl.NumberFormat("zh-CN",{maximumFractionDigits:o}).format(Number(i)||0);function fe({periods:i,existing:o,onClose:$,onImported:u}){const[g,D]=l.useState(null),[d,j]=l.useState(null),[t,r]=l.useState(null),[m,x]=l.useState(!1),[M,S]=l.useState(""),[I,T]=l.useState(!1),k=o.find(a=>a.report_month===(t==null?void 0:t.month)),G=(k==null?void 0:k.source_sha256)===(t==null?void 0:t.sourceSha256),Y=Object.fromEntries(i.flatMap(a=>a.stations.map(f=>[String(X(f.cells,"D")??"").trim(),String(X(f.cells,"C")??"").trim()])).filter(([a])=>a)),V=async()=>{if(g){x(!0),S("正在本机解析工作簿，原始订单和手机号不会上传…");try{const{buildOrderPayload:a}=await ae(async()=>{const{buildOrderPayload:L}=await import("./analysis-order-import-8EX-85Ch.js");return{buildOrderPayload:L}},__vite__mapDeps([0,1,2])),f=await a(g,Y,d||void 0,L=>{const h=o.find(K=>K.report_month===L),E=h==null?void 0:h.payload.userIndex;return E&&typeof E.keyId=="string"&&Array.isArray(E.events)?E:null});r(f),S("解析完成。请核对月份、汇总与待关联记录后再导入。")}catch(a){r(null),S(a instanceof Error?a.message:"订单解析失败")}finally{x(!1)}}},H=async a=>{if(t){x(!0),S("正在保存经去标识处理的经营分析快照…");try{await re(t,a),u(t.month,t)}catch(f){S(f instanceof Error?f.message:"导入失败")}finally{x(!1)}}};return e.jsx("div",{className:"analysis-import-backdrop",onClick:$,children:e.jsxs("section",{className:"analysis-import-dialog",role:"dialog","aria-modal":"true","aria-label":"导入经营分析订单",onClick:a=>a.stopPropagation(),children:[e.jsxs("header",{children:[e.jsxs("div",{children:[e.jsx("small",{children:"ORDER DATA / 经营分析"}),e.jsx("h2",{children:"导入订单分析"}),e.jsx("p",{children:"在本机解析 Excel，仅将去标识的统计结果与异常订单证据保存到私有数据表。"})]}),e.jsx("button",{type:"button",className:"analysis-import-close",onClick:$,"aria-label":"关闭导入",children:e.jsx(ee,{size:19})})]}),e.jsxs("div",{className:"analysis-import-body",children:[e.jsxs("div",{className:"analysis-import-files",children:[e.jsxs("label",{children:[e.jsx("span",{children:"本月订单明细 · 必选"}),e.jsx("input",{type:"file",accept:".xlsx",onChange:a=>{var f;D(((f=a.target.files)==null?void 0:f[0])||null),r(null),T(!1)}}),e.jsx("strong",{children:(g==null?void 0:g.name)||"选择订单 Excel"})]}),e.jsxs("label",{children:[e.jsx("span",{children:"上月订单明细 · 可选"}),e.jsx("input",{type:"file",accept:".xlsx",onChange:a=>{var f;j(((f=a.target.files)==null?void 0:f[0])||null),r(null)}}),e.jsx("strong",{children:(d==null?void 0:d.name)||"用于计算跨月留存与流失"})]})]}),e.jsx("p",{className:"analysis-import-rule",children:"按交易号去重；仅统计已完成且电量大于 0 的有效充电；一心社区全部排除；无法确认运营商的记录列为待关联。服务费为订单应收，不替代财务月报收入或毛利。30 天滚动复购优先自动关联同一浏览器已导入的上月逐笔索引，也可选择上月原始文件；旧汇总快照缺少索引时需重导上月。"}),e.jsxs("button",{type:"button",className:"analysis-import-primary",disabled:!g||m,onClick:()=>void V(),children:[e.jsx(te,{size:16}),m?"处理中…":"解析并预览"]}),t&&e.jsxs("div",{className:"analysis-import-preview",children:[e.jsxs("h3",{children:[t.month," 订单汇总"]}),e.jsxs("div",{className:"analysis-import-stats",children:[e.jsxs("div",{children:[e.jsx("span",{children:"有效订单"}),e.jsxs("b",{children:[R(t.overall.stats.valid)," 笔"]})]}),e.jsxs("div",{children:[e.jsx("span",{children:"充电电量"}),e.jsxs("b",{children:[R(t.overall.stats.kwh,2)," 度"]})]}),e.jsxs("div",{children:[e.jsx("span",{children:"订单服务费"}),e.jsxs("b",{children:[R(t.overall.stats.service,2)," 元"]})]}),e.jsxs("div",{children:[e.jsx("span",{children:"有订单场站"}),e.jsxs("b",{children:[R(t.overall.stats.stations)," 站"]})]})]}),e.jsxs("p",{children:["五运营商：",t.operatorOrder.map(a=>`${a} ${t.operators[a].stats.stations} 站`).join(" · ")]}),e.jsxs("p",{children:["排除一心社区 ",t.excludedOrders," 笔；待关联 ",t.unmatchedOrders," 笔",t.unmatchedStations.length?`（${t.unmatchedStations.join("、")}）`:"","。"]}),e.jsxs("p",{children:["本月复购率：",t.overall.stats.repeatRate==null?"待核验":`${R(t.overall.stats.repeatRate,2)}%`,"；30 天滚动复购率：",t.overall.stats.rollingRepeatRate==null?"待补可关联的上月逐笔历史":`${R(t.overall.stats.rollingRepeatRate,2)}%`]}),e.jsxs("p",{children:["跨月留存：",t.overall.stats.retentionRate==null?"待关联上月文件":`${R(t.overall.stats.retentionRate,2)}%`]}),k&&e.jsxs("div",{className:"analysis-import-existing",children:["该月已有",k.status==="published"?"已发布":"预览","快照；",G?"源文件指纹相同，本次可补充上月留存信息。":"源文件指纹不同，新导入会保留旧版本，但最新版本将成为该月展示数据。"]}),k&&e.jsxs("label",{className:"analysis-import-confirm",children:[e.jsx("input",{type:"checkbox",checked:I,onChange:a=>T(a.target.checked)}),"已核对现有月份与本次结果，确认以新快照作为最新展示版本"]}),e.jsxs("div",{className:"analysis-import-actions",children:[e.jsx("button",{type:"button",disabled:m||!!k&&!I,onClick:()=>void H("preview"),children:"保存预览"}),e.jsx("button",{type:"button",className:"analysis-import-primary",disabled:m||!!k&&!I,onClick:()=>void H("published"),children:"确认导入并发布"})]})]}),M&&e.jsx("p",{className:"analysis-import-message",role:"status",children:M})]})]})})}const B=i=>typeof i=="number"&&Number.isFinite(i)?i:null,N=(i,o=2)=>new Intl.NumberFormat("zh-CN",{maximumFractionDigits:o}).format(i),Q=(i,o,$)=>i===null?"当前缺值":o===null?"上月暂无对比数据":`${i-o>=0?"+":""}${N(i-o)} ${$}${o!==0?`；环比 ${N((i-o)/Math.abs(o)*100,1)}%`:"；上月为零，环比率不计算"}`;function ge({current:i,previous:o,onClose:$}){const u=[["有效订单","valid","笔"],["充电电量","kwh","度"],["订单服务费（应收）","service","元"],["有订单场站","stations","站"]],g=i.stations,D=(o==null?void 0:o.stations)||{},d=Object.entries(g).flatMap(([r,m])=>{const x=D[r],M=B(m.kwh),S=B(x==null?void 0:x.kwh);return M!==null&&S!==null?[{name:r,current:M,prior:S,delta:M-S}]:[]}).sort((r,m)=>Math.abs(m.delta)-Math.abs(r.delta)).slice(0,8),j=Object.keys(g).filter(r=>!D[r]),t=new Set(Object.values(i.ruleIndexes).flat()).size;return e.jsx("div",{className:"dash-modal-backdrop",onClick:$,children:e.jsxs("div",{className:"dash-modal import-analysis-dialog",role:"dialog","aria-modal":"true","aria-label":"分析本次订单导入数据",onClick:r=>r.stopPropagation(),children:[e.jsxs("div",{className:"dash-modal-head",children:[e.jsxs("div",{children:[e.jsx("h2",{children:"分析本次导入数据 · 订单"}),e.jsxs("p",{children:[i.month," · 已去重有效订单；对照上一自然月已发布订单快照"]})]}),e.jsx("button",{onClick:$,"aria-label":"关闭分析",children:e.jsx(ee,{size:20})})]}),e.jsxs("div",{className:"dash-modal-body",children:[e.jsx("h3",{children:"经营变化"}),e.jsx("div",{className:"import-analysis-findings",children:u.map(([r,m,x])=>e.jsxs("div",{className:"import-analysis-finding",children:[e.jsx("b",{children:r}),e.jsxs("p",{children:["本月 ",N(B(i.overall.stats[m])||0)," ",x,"；",Q(B(i.overall.stats[m]),B(o==null?void 0:o.overall.stats[m]),x)]})]},m))}),e.jsx("h3",{children:"异常与核查"}),e.jsxs("p",{children:["本月异常标记 ",N(t,0)," 条；待关联订单 ",N(i.unmatchedOrders,0)," 笔；排除一心社区 ",N(i.excludedOrders,0)," 笔。异常标记可能重叠，不等于已确认经营损失。"]}),e.jsx("h3",{children:"站点电量变化"}),o?e.jsxs("div",{className:"import-analysis-findings",children:[d.map(r=>e.jsxs("div",{className:"import-analysis-finding check",children:[e.jsx("b",{children:r.name}),e.jsxs("p",{children:["上月 ",N(r.prior)," 度 → 本月 ",N(r.current)," 度；",Q(r.current,r.prior,"度"),"。具体原因待核对订单、价格与设备记录。"]})]},r.name)),j.length>0&&e.jsxs("div",{className:"import-analysis-finding",children:[e.jsxs("b",{children:["本月新增订单记录 ",j.length," 站"]}),e.jsxs("p",{children:[j.slice(0,6).join("、"),j.length>6?"等":"","；不等于新建站。"]})]})]}):e.jsx("p",{children:"上月订单快照缺失；不推算站点环比。"}),e.jsx("p",{className:"dash-caption",children:"订单应收服务费仅作运营分析，不代替财务实际收入或毛利；变化原因需要进一步证据核查。"})]})]})})}function he({onNavigate:i,onMonthChange:o,onFinanceImport:$,canEdit:u}){const{periods:g}=ne(),D=l.useRef(null),[d,j]=l.useState([]),[t,r]=l.useState(""),[m,x]=l.useState(""),[M,S]=l.useState(!0),[I,T]=l.useState(!1),[k,G]=l.useState(null),[Y,V]=l.useState(null),[H,a]=l.useState(!1),[f,L]=l.useState(0);l.useEffect(()=>{let p=!0,n;return Promise.race([ie(),new Promise((c,b)=>{n=window.setTimeout(()=>b(new Error("经营分析数据读取超时，请检查网络后重试")),12e3)})]).then(c=>{p&&(j(c),r(b=>{var v;return c.some(w=>w.report_month===b)?b:((v=c[0])==null?void 0:v.report_month)??""}),x(""))}).catch(c=>{p&&x(c instanceof Error?c.message:"经营分析暂不可用")}).finally(()=>{window.clearTimeout(n),p&&S(!1)}),()=>{p=!1,window.clearTimeout(n)}},[u,f]),l.useEffect(()=>{const p=n=>{var z,c,b,v,w;if(n.source===((z=D.current)==null?void 0:z.contentWindow)&&(((c=n.data)==null?void 0:c.type)==="sijiu-analysis-home"&&i("/"),((b=n.data)==null?void 0:b.type)==="sijiu-analysis-import-open"&&u&&T(!0),((v=n.data)==null?void 0:v.type)==="sijiu-finance-import-open"&&u&&$(),((w=n.data)==null?void 0:w.type)==="sijiu-analysis-summary-save")){const _=d.find(C=>C.report_month===n.data.month),O=(C,W)=>{var A,F;return(F=(A=D.current)==null?void 0:A.contentWindow)==null?void 0:F.postMessage({type:"sijiu-analysis-summary-result",ok:C,message:W,operator:n.data.operator,notes:n.data.notes},"*")};if(!u||!_){O(!1,"仅管理端可以保存当前月份摘要");return}oe(_,String(n.data.operator),n.data.notes??{}).then(()=>O(!0,"经营摘要已保存")).catch(C=>O(!1,C instanceof Error?C.message:"保存失败"))}};return window.addEventListener("message",p),()=>window.removeEventListener("message",p)},[i,$,d,u]);const h=d.find(p=>p.report_month===t);l.useEffect(()=>{t&&o(t)},[t,o]);const E=(h==null?void 0:h.payload.analysisSchemaVersion)===2,K=l.useMemo(()=>{var J,Z;if(!h)return"";const p=JSON.stringify(h.payload).replace(/</g,"\\u003c").replace(/\u2028/g,"\\u2028").replace(/\u2029/g,"\\u2029"),n=new Date(Date.UTC(Number(t.slice(0,4)),Number(t.slice(5))-2,1)).toISOString().slice(0,7),z=((J=d.find(s=>s.report_month===n))==null?void 0:J.payload)??null,c=new Date(Date.UTC(Number(n.slice(0,4)),Number(n.slice(5))-2,1)).toISOString().slice(0,7),b=((Z=d.find(s=>s.report_month===c))==null?void 0:Z.payload)??null,v=g.find(s=>s.month===t),w=g.find(s=>s.month===n),_=s=>Object.fromEntries(((s==null?void 0:s.stations)??[]).map(U=>[String(X(U.cells,"D")??""),{grossYuan:P(U.cells,"K")}]).filter(([U])=>U)),O=JSON.stringify({previous:z,beforePrevious:b,finance:v?{grossWan:P(v.overview,"P"),revenueWan:P(v.overview,"O")}:null,previousFinance:w?{grossWan:P(w.overview,"P"),revenueWan:P(w.overview,"O")}:null,stationFinance:_(v),previousStationFinance:_(w)}).replace(/</g,"\\u003c"),C=d.map(s=>`<option value="${s.report_month}" ${s.report_month===t?"selected":""}>${s.report_month.slice(0,4)}年${Number(s.report_month.slice(5))}月</option>`).join(""),W=Array.isArray(h.payload.operatorOrder)?h.payload.operatorOrder.filter(s=>typeof s=="string"):[],A=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;"),F=W.map(s=>`<option value="${A(s)}">${A(s)}</option>`).join("");let y=se.replace("</style>",`.app,.app.nav-compact{display:block}.sidebar{display:none}.workspace{width:100%}.topbar{position:relative;height:58px;justify-content:flex-end}.topbar .crumb{display:none}main{max-width:1690px}
+`,ue=`.overlay{background:rgba(9,35,27,.35);backdrop-filter:blur(1px)}\r
+.drawer{width:clamp(640px,45vw,880px);max-width:100vw;background:#f8f8f2;border-left:1px solid #dae6da;box-shadow:-26px 0 70px rgba(13,49,35,.19);transition:transform .34s cubic-bezier(.22,.8,.2,1)}\r
+.drawer-head{padding:27px 34px 20px;background:#fffefa;border-bottom:1px solid #e2e9df;box-shadow:0 5px 24px #173f2808;z-index:2}\r
+.drawer-title{font-family:Georgia,"Songti SC","SimSun",serif;font-size:28px;font-weight:600;letter-spacing:-.5px;max-width:calc(100% - 42px)}\r
+.drawer-sub{font-size:12px;line-height:1.7;color:#728c7b}.drawer-tools{margin-top:17px}.drawer-tools .btn{border-radius:9px}.x-btn{top:27px;right:30px;width:38px;height:38px;background:#eff5ef;transition:background .18s,transform .18s}.x-btn:hover{background:#dcebdd;transform:rotate(90deg)}\r
+.drawer-nav{position:relative;z-index:2;gap:4px;padding:0 26px;background:#fffefa;border-bottom:1px solid #e5ede3;box-shadow:0 8px 16px #183e2607}.drawer-nav button{border-radius:0;padding:16px 14px 13px;border-bottom:2px solid transparent;transition:color .18s,border-color .18s,background .18s}.drawer-nav button:hover{color:#146b4d;background:#f5faf4}.drawer-nav button.on{background:transparent;color:#155f44;border-bottom-color:#b58e55}\r
+.drawer-body{padding:25px 34px 44px;scrollbar-color:#b9cbbd transparent}.drawer-body>.on-enter{animation:drawerContent .23s ease-out}@keyframes drawerContent{from{opacity:.55;transform:translateY(5px)}to{opacity:1;transform:none}}\r
+.drawer[data-detail="station"] .drawer-kpis{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.drawer[data-detail="station"] .drawer-kpi{min-height:94px;background:#fffefa;border-color:#e1e9de;border-radius:13px;padding:15px 17px;box-shadow:0 4px 18px #153a2408}.drawer[data-detail="station"] .drawer-kpi:first-child{grid-column:span 2;grid-row:span 2;display:flex;flex-direction:column;justify-content:space-between;background:#164b3a;border-color:#164b3a;min-height:198px;padding:24px}.drawer[data-detail="station"] .drawer-kpi:first-child .lab{color:#c6dfcf;font-size:12px}.drawer[data-detail="station"] .drawer-kpi:first-child .val{font-size:38px;color:#fff;letter-spacing:-1.5px}.drawer[data-detail="station"] .drawer-kpi:first-child .val small{color:#d3e9d6}.drawer[data-detail="station"] .drawer-kpi:nth-child(2),.drawer[data-detail="station"] .drawer-kpi:nth-child(3){background:#eef5ed}.drawer[data-detail="station"] .drawer-section{margin-top:26px;padding-top:23px;border-top-color:#dce7da}.drawer-section h3{font-size:16px}.drawer[data-detail="station"] .busy4{grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.busy-stat{background:#fffefa;border-color:#e0e8dc;min-height:89px;padding:15px}.busy-stat b{font-size:18px}.busy-slider{height:7px;margin:17px 0}.inner-chart{background:#fffefa;border-color:#dfe9dd;padding:18px;border-radius:15px}.detail-note{background:#f0f5ee;border-color:#dfeade}.detail-note.warn{background:#fdf6e9;border-color:#efe0c8}\r
+.metric-hero{background:#164b3a;color:#fff;border-radius:18px;padding:28px 30px 25px;position:relative;overflow:hidden}.metric-hero:after{content:"";position:absolute;width:230px;height:230px;border:1px solid #ffffff20;border-radius:50%;right:-60px;top:-105px;pointer-events:none}.metric-hero .eyebrow{color:#d5b681}.metric-hero strong{display:block;font-size:48px;line-height:1.15;margin:15px 0 9px;letter-spacing:-2px}.metric-hero strong small{font-size:16px;letter-spacing:0;margin-left:7px;color:#d7e6d8}.metric-hero p{font-size:12px;color:#c9ded0;line-height:1.6}.metric-method{background:#fffefa;border:1px solid #e0e9de;border-radius:13px;margin-top:11px;padding:17px 19px}.metric-method b{color:#1c6247;font-size:12px}.metric-method p{color:#385a45;font-size:13px;margin:7px 0 6px;line-height:1.65}.metric-method span{color:#899c8e;font-size:11px}.metric-site-list{display:flex;flex-direction:column;gap:7px;margin-top:15px}.metric-site-row{width:100%;display:grid;grid-template-columns:34px minmax(0,1fr) auto;align-items:center;gap:12px;text-align:left;background:#fffefa;border:1px solid #e2eae0;border-radius:11px;padding:12px 15px;transition:border-color .18s,transform .18s,box-shadow .18s}.metric-site-row:hover{border-color:#92bba0;transform:translateX(-2px);box-shadow:0 7px 20px #20493212}.metric-site-rank{font-family:Georgia,serif;color:#b6925c;font-size:15px}.metric-site-name{min-width:0;display:flex;flex-direction:column;gap:3px}.metric-site-name b{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:12px;color:#28513a}.metric-site-name small,.metric-site-value small{color:#8aa091;font-size:10px}.metric-site-name i{display:block;height:3px;max-width:100%;background:linear-gradient(90deg,#7db395,#1b7455);border-radius:5px;margin-top:5px}.metric-site-value{text-align:right;display:flex;flex-direction:column;gap:3px}.metric-site-value b{font-size:12px;color:#195b43}.metric-detail .drawer-section{margin-top:25px;padding-top:22px}\r
+.drawer[data-detail="station"] .rule-tag{border-radius:99px}.drawer[data-detail="station"] .rule-tag.selected{background:#174e3d}.drawer[data-detail="station"] .orderrow{background:#fffefa}.drawer[data-detail="station"] .task-item{background:#fffefa;border:1px solid #e2ebe0;border-radius:11px;padding:14px;margin-bottom:8px}.drawer[data-detail="station"] .task-item:last-child{border:1px solid #e2ebe0}\r
+.drawer[data-detail="station"] .rule-tag{padding:9px 13px;background:#fffefa;border-color:#e0e9dc;color:#386b4f}.drawer[data-detail="station"] .rule-tag:hover{border-color:#9cc4a8}.drawer[data-detail="station"] .rule-tag.selected{color:#fff}.task-progress{padding:18px 20px;border:1px solid #dce9dc;background:#edf5eb;border-radius:13px;margin:0 0 13px}.task-progress>div{display:flex;justify-content:space-between;gap:12px;font-size:12px;color:#496d55}.task-progress strong{color:#155c42}.task-progress>i{display:block;height:8px;background:#dce9db;border-radius:99px;margin-top:12px;overflow:hidden}.task-progress>i>b{display:block;height:100%;background:#278260;border-radius:99px;transition:width .25s}\r
+.station-report-intro{padding:4px 2px 20px}.station-report-intro h3{font:600 26px/1.3 Georgia,"Songti SC",serif;color:#1b4b37;margin:7px 0}.station-report-intro p{font-size:11px;color:#829889}.station-hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:10px}.station-hero-side{display:grid;gap:10px}.station-diagnostic-metric{background:#fffefa;border:1px solid #e2e9df;border-radius:12px;padding:15px 17px;min-width:0}.station-diagnostic-metric>span{font-size:11px;color:#769080;font-weight:700}.station-diagnostic-metric.featured{background:#174e3b;border-color:#174e3b;padding:23px 25px;display:flex;flex-direction:column;justify-content:space-between;min-height:218px}.station-diagnostic-metric.featured>span{color:#cae1ce;font-size:12px}.station-pair{display:flex;flex-direction:column;align-items:flex-start;gap:5px;margin-top:9px;line-height:1.4}.station-pair strong{font-size:20px;color:#1e543c;font-variant-numeric:tabular-nums;letter-spacing:-.5px}.station-pair small{font-size:10px;color:#809587}.station-pair em{font-size:10px;font-style:normal;font-weight:750;color:#8a9e8c}.station-pair em.positive{color:#247b59}.station-pair em.negative{color:#ba6657}.station-diagnostic-metric.featured .station-pair strong{font-size:38px;color:#fff}.station-diagnostic-metric.featured .station-pair small{color:#c6dccc}.station-diagnostic-metric.featured .station-pair em{color:#d6ba82}.station-metric-rail{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:11px}.station-metric-rail .station-diagnostic-metric{background:#f2f7ef;padding:13px 15px}.station-metric-rail .station-pair strong{font-size:17px}.station-report-section{margin-top:26px;padding:22px 0 0;border-top:1px solid #dce7dc}.station-report-heading{margin-bottom:15px}.station-report-heading h3{font-size:18px;color:#1d4d38;margin:6px 0}.station-report-heading p{font-size:11px;color:#83988a}.station-util-list{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:0 18px;background:#fffefa;border:1px solid #e1e9de;border-radius:13px;padding:8px 17px}.station-util-row{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:13px 0;border-bottom:1px solid #edf1ea;min-width:0}.station-util-row:nth-last-child(-n+2){border-bottom:0}.station-util-row>span{color:#6e8775;font-size:11px;min-width:75px}.station-util-row>.station-pair{margin:0;align-items:flex-end;text-align:right}.station-util-row .station-pair strong{font-size:17px}.station-util-row>b{font-size:11px;color:#8b987f}.station-potential{background:#edf5ec;border:1px solid #dceadb;border-radius:13px;padding:18px 20px;margin-top:12px}.station-potential>div{display:flex;align-items:flex-start;justify-content:space-between;gap:14px}.station-potential>div>span{font-size:12px;font-weight:800;color:#26533d}.station-potential .station-pair{margin:0;text-align:right;align-items:flex-end}.station-potential .station-pair strong{font-size:23px}.station-potential p{font-size:10px;color:#829386;margin:4px 0 0}.station-conclusion{background:#fff9ee;border:1px solid #ebdcc0;border-radius:14px;padding:21px 23px}.station-conclusion h3{font-size:17px;color:#5c4c32;margin:6px 0}.station-conclusion p{font-size:12px;line-height:1.7;color:#665c49}.station-tou{background:#fffefa;border:1px solid #e3eade;border-radius:13px;padding:10px 18px}.station-tou-row{display:grid;grid-template-columns:40px minmax(70px,1fr) minmax(160px,auto);gap:11px;align-items:center;padding:10px 0;border-bottom:1px solid #eef2ec}.station-tou-row:last-child{border-bottom:0}.station-tou-name{font-size:11px;color:#496852;font-weight:800}.station-tou-track{height:8px;background:#eef2eb;border-radius:99px;overflow:hidden}.station-tou-track i{display:block;height:100%;border-radius:99px}.station-tou-row .station-pair{margin:0;align-items:flex-end;text-align:right}.station-tou-row .station-pair strong{font-size:14px}.user-rail{margin:0 0 12px}\r
+.metric-help{display:inline-flex;align-items:center;justify-content:center;vertical-align:middle;width:16px;height:16px;margin-left:4px;border:1px solid #bfd3c4;border-radius:50%;background:transparent;color:#56846b;font-size:10px;font-weight:800;line-height:1;cursor:help;padding:0}.metric-help:hover,.metric-help:focus-visible{background:#e4f1e8;color:#145d43}.station-diagnostic-metric.featured .metric-help{border-color:#aacbb7;color:#d9ebdc}.metric-help-content{display:none}.metric-tooltip{position:fixed;z-index:90;max-height:min(70vh,390px);overflow:auto;background:#fffefa;border:1px solid #d9e7da;border-radius:12px;box-shadow:0 18px 42px #123e2b30;padding:15px 17px;color:#345543;font-size:11px;line-height:1.55;pointer-events:none}.metric-tooltip>b{display:block;color:#15553d;font-size:13px;margin-bottom:9px}.metric-tooltip>span{display:block;border-top:1px solid #ecf1e9;padding:7px 0}.metric-tooltip>span strong{display:block;color:#7c9984;font-size:10px;margin-bottom:2px}.kpi .metric-help{flex:none}\r
+.station-tou-row{grid-template-columns:minmax(74px,92px) minmax(0,1fr) minmax(155px,auto)}\r
+.station-tou-name{display:inline-flex;align-items:center;gap:4px;white-space:nowrap;min-width:0}\r
+.station-tou-name .metric-help{flex:none;margin-left:0}\r
+.user-rail{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}\r
+.user-rail .station-diagnostic-metric{min-height:106px;background:#fffefa;padding:17px 19px}\r
+.user-rail .station-diagnostic-metric:first-child{background:#e8f2e9;border-color:#cee2d2}\r
+.user-rail .station-diagnostic-metric:nth-child(4){background:#f4f5e9;border-color:#e2e3cb}\r
+.user-rail .station-diagnostic-metric:last-child{grid-column:1/-1;min-height:0;display:flex;align-items:center;justify-content:space-between;gap:16px;background:#edf4ed}\r
+.user-rail .station-diagnostic-metric:last-child .station-pair{margin-top:0;align-items:flex-end;text-align:right}\r
+.user-rail .station-diagnostic-metric>span{display:inline-flex;align-items:center;gap:3px}\r
+.user-rail .station-diagnostic-metric>span .metric-help{flex:none;margin-left:3px}\r
+.station-users-report .station-report-intro{padding-bottom:14px}\r
+.station-audience{display:grid;gap:10px}\r
+.station-audience-overview{display:grid;grid-template-columns:minmax(0,1.08fr) minmax(0,.92fr);gap:10px}\r
+.station-audience-overview>.station-diagnostic-metric{display:flex;flex-direction:column;justify-content:space-between;min-height:176px;padding:23px 25px;background:#174a39;border-color:#174a39;box-shadow:0 12px 26px #174a3915}\r
+.station-audience-overview>.station-diagnostic-metric>span{color:#d2e5d4;font-size:12px}\r
+.station-audience-overview>.station-diagnostic-metric .metric-help{color:#e8f4e9;border-color:#91b4a1}\r
+.station-audience-overview>.station-diagnostic-metric .station-pair strong{color:#fffefa;font-size:39px;letter-spacing:-1px}\r
+.station-audience-overview>.station-diagnostic-metric .station-pair small{color:#bed6c7}\r
+.station-audience-overview>.station-diagnostic-metric .station-pair em{color:#e0c58f}\r
+.station-audience-overview-side{display:grid;grid-template-rows:repeat(2,minmax(0,1fr));gap:10px}\r
+.station-audience-overview-side .station-diagnostic-metric{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:13px 17px;background:#fffefa}\r
+.station-audience-overview-side .station-diagnostic-metric .station-pair{align-items:flex-end;text-align:right;margin:0;gap:3px}\r
+.station-audience-overview-side .station-diagnostic-metric .station-pair strong{font-size:20px;white-space:nowrap}\r
+.station-audience-retention{background:#fffefa;border:1px solid #e1e9de;border-radius:13px;overflow:hidden}\r
+.station-audience-label{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:12px 17px;border-bottom:1px solid #e9eee6;background:#f5f7ee}\r
+.station-audience-label>span:last-child{font-size:10px;color:#829584}\r
+.station-audience-retention-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}\r
+.station-audience-retention-grid .station-diagnostic-metric{min-height:88px;border:0;border-radius:0;padding:14px 17px;background:transparent}\r
+.station-audience-retention-grid .station-diagnostic-metric:nth-child(odd){border-right:1px solid #e9eee6}\r
+.station-audience-retention-grid .station-diagnostic-metric:nth-child(-n+2){border-bottom:1px solid #e9eee6}\r
+.station-audience-retention-grid .station-diagnostic-metric .station-pair{margin-top:6px;gap:2px}\r
+.station-audience-retention-grid .station-diagnostic-metric .station-pair strong{font-size:19px}\r
+.station-audience-retention-grid .station-diagnostic-metric>span{display:inline-flex;align-items:center;gap:3px}\r
+.station-audience-retention-grid .station-diagnostic-metric>span .metric-help{flex:none;margin-left:2px}\r
+.station-users-report .detail-note.warn{margin-top:10px;padding:10px 13px;font-size:10px;line-height:1.55}\r
+.station-users-report .station-report-section{margin-top:20px;padding-top:18px}\r
+.station-users-report .station-tou{padding:2px 16px;background:#fffefa}\r
+.station-users-report .station-tou-row{grid-template-columns:minmax(62px,80px) minmax(0,1fr) minmax(155px,auto);gap:14px;min-height:59px;padding:8px 0}\r
+.station-users-report .station-tou-name{font-size:11px}\r
+.station-users-report .station-tou-track{height:7px;background:#ecf1e9}\r
+.station-users-report .station-tou-row .station-pair{gap:2px}\r
+.station-users-report .station-tou-row .station-pair strong{font-size:14px}\r
+.station-users-report .station-tou-row .station-pair small,.station-users-report .station-tou-row .station-pair em{font-size:9px}\r
+.station-users-report .note{margin-top:7px;font-size:10px;line-height:1.5}\r
+.metric-detail .drawer-section .panel-top:has(.metric-site-search){flex-wrap:wrap}\r
+.metric-site-search{display:inline-flex;align-items:center;gap:6px;margin-left:auto;padding:7px 10px;border:1px solid #dce8dc;border-radius:9px;background:#fffefa;color:#6b9177;min-width:170px;max-width:230px;transition:border-color .16s,box-shadow .16s}\r
+.metric-site-search:focus-within{border-color:#67a783;box-shadow:0 0 0 3px #67a78322}\r
+.metric-site-search span{font-size:18px;line-height:1}\r
+.metric-site-search input{width:100%;min-width:0;border:0;outline:0;background:transparent;color:#1e5039;font:inherit;font-size:11px}\r
+.metric-site-search input::placeholder{color:#91a397}\r
+.metric-site-row[hidden],.metric-search-empty[hidden]{display:none}\r
+.metric-search-empty{padding:18px;text-align:center;color:#829786;font-size:12px;background:#f4f8f2;border-radius:10px;margin-top:12px}\r
+@media(max-width:700px){.station-hero-grid{grid-template-columns:1fr}.station-diagnostic-metric.featured{min-height:150px}.station-metric-rail{grid-template-columns:repeat(2,minmax(0,1fr))}.station-util-list{grid-template-columns:1fr}.station-util-row:nth-last-child(2){border-bottom:1px solid #edf1ea}.station-tou-row{grid-template-columns:34px 1fr;gap:6px}.station-tou-row .station-pair{grid-column:2;align-items:flex-start;text-align:left}}\r
+@media(max-width:700px){.station-tou-row{grid-template-columns:minmax(76px,96px) minmax(0,1fr);gap:8px}.station-tou-row .station-pair{grid-column:2;grid-row:1;align-items:flex-end;text-align:right}.station-tou-row .station-tou-track{grid-column:1/-1;grid-row:2}.user-rail{grid-template-columns:repeat(2,minmax(0,1fr))}}\r
+@media(max-width:520px){.user-rail{grid-template-columns:1fr}.user-rail .station-diagnostic-metric:last-child{grid-column:auto}}\r
+@media(max-width:700px){.station-users-report .station-tou-row{grid-template-columns:minmax(72px,92px) minmax(0,1fr)}.station-users-report .station-tou-row .station-pair{grid-column:2;grid-row:1}.station-users-report .station-tou-row .station-tou-track{grid-column:1/-1;grid-row:2}}\r
+@media(max-width:560px){.station-audience-overview{grid-template-columns:1fr}.station-audience-overview>.station-diagnostic-metric{min-height:136px}.station-audience-overview-side{grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:none}.station-audience-overview-side .station-diagnostic-metric{display:block}.station-audience-overview-side .station-diagnostic-metric .station-pair{align-items:flex-start;text-align:left;margin-top:8px}.station-audience-retention-grid .station-diagnostic-metric{padding:12px}.station-audience-retention-grid .station-diagnostic-metric .station-pair strong{font-size:17px}}\r
+@media(max-width:900px){.drawer{width:min(720px,94vw)}.drawer-head{padding:20px 23px 17px}.drawer-body{padding:20px 22px 30px}.drawer[data-detail="station"] .busy4{grid-template-columns:repeat(2,minmax(0,1fr))}}\r
+@media(max-width:650px){.drawer{width:100vw}.drawer-title{font-size:22px}.drawer-nav{padding:0 12px}.drawer-nav button{padding:12px 10px;font-size:11px}.drawer-body{padding:16px 14px 28px}.drawer[data-detail="station"] .drawer-kpis{grid-template-columns:repeat(2,minmax(0,1fr))}.drawer[data-detail="station"] .drawer-kpi:first-child{grid-column:span 2;grid-row:auto;min-height:135px}.drawer[data-detail="station"] .drawer-kpi:first-child .val{font-size:32px}.metric-hero strong{font-size:37px}.metric-site-row{grid-template-columns:27px minmax(0,1fr) auto;gap:7px;padding:10px}}\r
+@media(prefers-reduced-motion:reduce){.drawer,.drawer-body>.on-enter,.x-btn,.metric-site-row{animation:none;transition:none}}\r
+`,me=`// Presentation-only station diagnosis. All values come from the current and previous\r
+// order snapshots; missing or non-comparable history is never estimated.\r
+const metricExplanations={\r
+ kwh:['有效充电电量','有效订单电量逐笔相加','订单电量、服务进程、订单号','按订单开始日期归属自然月；去重并排除一心社区。'],\r
+ valid:['有效充电订单','去重后已完成且电量大于0的订单数','订单号、服务进程、充电电量','同一自然月、当前运营商或场站范围。'],\r
+ orders:['有效充电订单','去重后已完成且电量大于0的订单数','订单号、服务进程、充电电量','同一自然月、当前运营商或场站范围。'],\r
+ service:['订单服务费（应收）','有效订单服务费逐笔相加','订单运营实收服务费','订单应收口径，不等于财务实际收入或毛利。'],\r
+ perKwhService:['单度订单服务费','有效订单服务费 ÷ 有效充电电量','订单运营实收服务费、充电电量','电量为0时不计算；非财务单度毛利。'],\r
+ gunDay:['枪日均服务费','有效订单服务费 ÷ 观察枪口数 ÷ 统计天数','订单服务费、充电枪编号、开始日期','枪数为订单中观察到的不同枪口；非设备台账枪数。'],\r
+ util:['时间利用率','有效订单充电分钟 ÷（观察枪口数 × 统计天数 × 1440分钟）×100%','订单充电时长、充电枪编号','订单估算的充电占用，不代表设备在线或停车占位。'],\r
+ users:['可识别用户数','有效订单可识别手机号去重计数','会员手机号、订单状态、电量','平台共用昵称不当个人；每月、每筛选范围独立去重。'],\r
+ perUser:['人均充电量','可识别用户订单电量 ÷ 可识别用户数','会员手机号、有效订单电量','仅计算可识别手机号订单；人数为0时不计算。'],\r
+ gun:['观察枪口数','当月订单中不同充电枪编号的数量','充电枪编号','仅代表订单观察枪口，不代表设备台账或可用状态。'],\r
+ userCoverage:['订单识别覆盖率','可识别手机号的有效订单数 ÷ 有效订单数 ×100%','会员手机号、订单号、服务进程、电量','按当前自然月有效订单统计。'],\r
+ repeatRate:['本月复购率','本月有效充电至少2次的可识别用户数 ÷ 本月有效充电可识别用户数 ×100%','去重后的有效订单号、会员手机号、服务进程、电量','当前自然月；手机号优先，平台共用昵称不作为个人ID。'],\r
+ rollingRepeatRate:['30天滚动复购率','本月有订单且其本月某笔订单之前30天内另有有效订单的可识别用户数 ÷ 本月有效充电可识别用户数 ×100%','本月及上月有效订单开始时间、去标识的同一手机号关联索引','按订单开始时刻回看30×24小时；允许跨月；缺少可关联的上月逐笔历史时不计算。'],\r
+ repeat:['月内复购率','本月有效订单至少2笔的手机号人数 ÷ 本月可识别用户数 ×100%','会员手机号、订单号、服务进程、电量','同一自然月内去重，不等于跨月留存。'],\r
+ repeatUsers:['月内复购用户','本月有效订单至少2笔的可识别手机号去重人数','会员手机号、订单号','同一自然月当前筛选范围。'],\r
+ retentionRate:['跨月留存率','上月与本月均活跃的可识别手机号人数 ÷ 上月活跃手机号人数 ×100%','两个月有效订单的会员手机号','缺少上月同口径订单时不计算。'],\r
+ busyUtil:['忙时充电占用率','忙时实际充电枪时 ÷ 忙时理论枪时 ×100%','有效订单开始/结束时间、充电枪编号','忙时按订单观察选取；不代表车辆占位或故障。'],\r
+ actualHours:['忙时实际充电枪时','忙时有效订单在对应时段的充电分钟之和 ÷60','有效订单开始/结束时间、充电枪编号','订单观察枪口的忙时充电占用。'],\r
+ idleHours:['理论未充电枪时','观察枪口数 × 忙时天数与小时数－实际充电枪时','充电枪编号、订单充电时段','理论值，不代表实际空闲车位或设备可用。'],\r
+ power:['订单平均功率','有效订单充电电量 ÷ 有效订单充电小时','订单电量、充电时长','订单侧平均值，不等于设备额定功率。'],\r
+ potential:['模拟新增电量','理论未充电枪时 × 订单平均功率 × 承接比例','忙时枪时、订单电量与时长、滑块比例','情景估算，不代表已确认损失或确定增量。'],\r
+ deviceAvailability:['设备可用情况','尚无设备可用率计算；缺少设备状态记录','待接入设备台账和状态日志','订单不能证明设备是否可用，当前显示待接入。'],\r
+ parkingOccupancy:['非充电占桩','尚无车辆停车占位计算；缺少停车记录','待接入停车或车位占用记录','充电枪未充电不能直接推断车辆占位。'],\r
+ flowOrders:['渠道订单数','对应流量入口的有效订单数','用户昵称、订单号、服务进程、电量','蚂蚁充电→新电途；快电→快电；数字1开头→蔚景云；其余→其他。'],\r
+ flowKwh:['渠道电量','对应流量入口有效订单电量之和','用户昵称、订单电量','按渠道映射归类；蔚景云是渠道，不是运营商。'],\r
+ tou:['分时充电电量','对应尖、峰、平、谷或深谷时段的订单电量之和','订单分时电量字段','分时电量不直接推算分时收入、成本或毛利。'],\r
+};\r
+function metricHelp(key,label){const [definition,formula,source,scope]=metricExplanations[key]||[label,'按当前订单字段汇总','订单明细','当前自然月及筛选范围'];return \`<button type="button" class="metric-help" data-metric-help="\${key}" aria-label="\${safe(label)}计算口径" aria-expanded="false">?</button><span class="metric-help-content" hidden><b>\${safe(label)}</b><span><strong>指标定义</strong>\${safe(definition)}</span><span><strong>计算公式</strong>\${safe(formula)}</span><span><strong>数据来源</strong>\${safe(source)}</span><span><strong>统计口径</strong>\${safe(scope)}</span><span><strong>环比说明</strong>完整月比上月完整月；未结束月比上月同期。增减量＝本月－上月；环比率＝增减量÷上月值×100%；百分比另显示百分点差。缺少同口径历史数据则不计算。</span></span>\`}\r
+function metricHelpInline(key,label){return metricHelp(key,label).replace('<button type="button"','<span role="button" tabindex="0"').replace('</button>','</span>')}\r
+function hideMetricTooltip(){document.querySelector('.metric-tooltip')?.remove();document.querySelectorAll('[data-metric-help][aria-expanded="true"]').forEach(node=>node.setAttribute('aria-expanded','false'))}\r
+function showMetricTooltip(anchor){const content=anchor.nextElementSibling;if(!content?.classList.contains('metric-help-content'))return;hideMetricTooltip();const tip=document.createElement('div');tip.className='metric-tooltip';tip.setAttribute('role','tooltip');tip.innerHTML=content.innerHTML;document.body.appendChild(tip);anchor.setAttribute('aria-expanded','true');const rect=anchor.getBoundingClientRect(),width=Math.min(330,window.innerWidth-24);tip.style.width=width+'px';tip.style.left=Math.max(12,Math.min(rect.left-40,window.innerWidth-width-12))+'px';tip.style.top=(rect.bottom+10+tip.offsetHeight>window.innerHeight?Math.max(12,rect.top-tip.offsetHeight-10):rect.bottom+10)+'px'}\r
+document.addEventListener('mouseover',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor)showMetricTooltip(anchor)});\r
+document.addEventListener('mouseout',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor&&!anchor.contains(event.relatedTarget))hideMetricTooltip()});\r
+document.addEventListener('focusin',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor)showMetricTooltip(anchor)});\r
+document.addEventListener('focusout',event=>{if(event.target.closest?.('[data-metric-help]'))hideMetricTooltip()});\r
+document.addEventListener('click',event=>{const anchor=event.target.closest?.('[data-metric-help]');if(anchor){event.preventDefault();event.stopPropagation();const open=anchor.getAttribute('aria-expanded')==='true';if(open)hideMetricTooltip();else showMetricTooltip(anchor)}else if(!event.target.closest?.('.metric-tooltip'))hideMetricTooltip()},true);\r
+document.addEventListener('keydown',event=>{if(event.key==='Escape')hideMetricTooltip();if((event.key==='Enter'||event.key===' ')&&event.target.matches?.('[data-metric-help]')){event.preventDefault();event.target.click()}});\r
+document.addEventListener('scroll',hideMetricTooltip,true);\r
+function stationComparison(st){\r
+  const previous=window.__REPORT_INTELLIGENCE_CONTEXT__?.previous;\r
+  const expected=new Date(Date.UTC(reportYear,reportMonthNumber-2,1)).toISOString().slice(0,7);\r
+  const prior=previous?.month===expected?previous.stations?.[st.name]:null;\r
+  const today=new Date();\r
+  const partial=reportYear===today.getFullYear()&&reportMonthNumber===today.getMonth()+1;\r
+  const limit=partial?Math.min(today.getDate(),days.length):days.length;\r
+  return {prior,partial,limit,previousMonth:expected};\r
+}\r
+function repeatInScope(payload,priorPayload,scope,throughDay){\r
+  const index=payload?.userIndex;\r
+  if(!index?.events)return null;\r
+  const current=index.events.filter(event=>(scope==='all'||event[3]===scope||event[4]===scope)&&(throughDay==null||event[2]<=throughDay));\r
+  const users=new Map();for(const event of current){const times=users.get(event[0])||[];times.push(event[1]);users.set(event[0],times)}\r
+  const monthUsers=[...users.values()].filter(times=>times.length>=2).length;\r
+  const previousIndex=priorPayload?.userIndex;\r
+  const linked=previousIndex?.keyId===index.keyId&&Array.isArray(previousIndex.events);\r
+  let rollingUsers=null;\r
+  if(linked){rollingUsers=0;const earlier=new Map();for(const event of previousIndex.events){if(scope!=='all'&&event[3]!==scope&&event[4]!==scope)continue;const times=earlier.get(event[0])||[];times.push(event[1]);earlier.set(event[0],times)}for(const [user,times] of users){const all=[...(earlier.get(user)||[]),...times];if(times.some(time=>all.some(other=>other<time&&time-other<=2592000000)))rollingUsers++}}\r
+  return {repeatRate:users.size?monthUsers/users.size*100:null,rollingRepeatRate:users.size&&rollingUsers!=null?rollingUsers/users.size*100:null};\r
+}\r
+function repeatComparable(scope,key,fallbackCurrent,fallbackPrevious){\r
+  const ctx=window.__REPORT_INTELLIGENCE_CONTEXT__||{},previous=ctx.previous;\r
+  const today=new Date(),partial=reportYear===today.getFullYear()&&reportMonthNumber===today.getMonth()+1;\r
+  const limit=partial?Math.min(today.getDate(),days.length):null;\r
+  const current=repeatInScope(DB,previous,scope,limit);\r
+  const prior=previous?repeatInScope(previous,ctx.beforePrevious,scope,limit):null;\r
+  return {current:current?.[key]??(!partial?fallbackCurrent:null),previous:prior?.[key]??(!partial?fallbackPrevious:null)};\r
+}\r
+// Keep the original user and channel layout; extend its metrics from the same\r
+// order snapshots used by the station diagnosis.\r
+const renderAudienceBase=renderAudience;\r
+renderAudience=function(){\r
+  renderAudienceBase();\r
+  const root=document.getElementById('audienceMetrics');if(!root)return;\r
+  const cards=[['30天滚动复购率','rollingRepeatRate']].map(([label,key])=>{\r
+    const priorScope=window.__REPORT_INTELLIGENCE_CONTEXT__?.previous;\r
+    const priorStats=(state.operator==='all'?priorScope?.overall:priorScope?.operators?.[state.operator])?.stats;\r
+    const pair=repeatComparable(state.operator==='all'?'all':state.operator,key,scopeStats()[key],priorStats?.[key]);\r
+    const value=typeof pair.current==='number'?cn(pair.current,2)+'%':key==='rollingRepeatRate'?'待补历史数据':'待核验';\r
+    const prior=typeof pair.previous==='number'?cn(pair.previous,2)+'%':'暂无对比数据';\r
+    const delta=typeof pair.current==='number'&&typeof pair.previous==='number'?pair.current-pair.previous:null;\r
+    const point=delta===null?'暂无对比数据':\`\${delta>=0?'+':''}\${cn(delta,2)} 个百分点\`;\r
+    const relative=delta===null?'':pair.previous?\` · \${delta>=0?'+':''}\${cn(delta/pair.previous*100,1)}%\`:' · 上月为0，环比率不可计算';\r
+    return \`<div class="audience-repeat"><small>\${label} \${metricHelp(key,label)}</small><strong>\${value}</strong><span>上月同期 \${prior}</span><em>\${point}\${relative}</em></div>\`;\r
+  });\r
+  root.innerHTML=root.innerHTML.replace(/<div><small>(有效用户数|月内复购率)<\\/small><strong>[^<]*<\\/strong><\\/div>/g,'')+cards.join('');\r
+};\r
+function stationComparable(st,key){\r
+  const {prior,partial,limit}=stationComparison(st);\r
+  if(key==='repeatRate'||key==='rollingRepeatRate')return repeatComparable(st.name,key,st[key],prior?.[key]);\r
+  if(!prior)return {current:st[key],previous:null,reason:'上月无同名场站订单'};\r
+  if(!partial)return {current:st[key],previous:prior[key]};\r
+  const dailyKey={kwh:'kwh',valid:'orders',service:'service'}[key];\r
+  if(dailyKey){\r
+    const currentDays=st.daily?.[dailyKey],priorDays=prior.daily?.[dailyKey];\r
+    if(Array.isArray(currentDays)&&Array.isArray(priorDays))return {current:sum(currentDays.slice(0,limit)),previous:sum(priorDays.slice(0,limit))};\r
+  }\r
+  if(key==='perKwhService'){\r
+    const c=stationComparable(st,'kwh'),p=stationComparable(st,'service');\r
+    return {current:c.current? p.current/c.current:null,previous:c.previous? p.previous/c.previous:null};\r
+  }\r
+  if(key==='gunDay'||key==='util'){\r
+    if(!st.gun||!prior.gun)return {current:null,previous:null};\r
+    const currentDays=st.daily?.[key==='gunDay'?'service':'minutes'];\r
+    const priorDays=prior.daily?.[key==='gunDay'?'service':'minutes'];\r
+    if(!Array.isArray(currentDays)||!Array.isArray(priorDays))return {current:null,previous:null};\r
+    const c=sum(currentDays.slice(0,limit)),p=sum(priorDays.slice(0,limit));\r
+    return key==='gunDay'?{current:c/st.gun/limit,previous:p/prior.gun/limit}:{current:c/(st.gun*limit*1440)*100,previous:p/(prior.gun*limit*1440)*100};\r
+  }\r
+  return {current:st[key],previous:null,reason:'缺少上月同期可去重的逐日数据'};\r
+}\r
+function stationPair(current,previous,unit,digits=2,percent=false){\r
+  const isNumber=value=>typeof value==='number'&&Number.isFinite(value);\r
+  const now=isNumber(current)?cn(current,digits)+' '+unit:'待核验';\r
+  if(!isNumber(previous))return \`<div class="station-pair"><strong>\${now}</strong><small>上月：暂无对比数据</small><em>暂无对比数据</em></div>\`;\r
+  const diff=isNumber(current)?current-previous:null;\r
+  const relative=diff!=null&&previous!==0?\`\${diff>=0?'+':''}\${cn(diff/previous*100,1)}%\`:'上月为0，环比率不可计算';\r
+  const change=diff==null?'暂无对比数据':\`\${diff>=0?'+':''}\${cn(diff,digits)} \${percent?'百分点':unit}\`;\r
+  return \`<div class="station-pair"><strong>\${now}</strong><small>上月 \${cn(previous,digits)} \${unit}</small><em class="\${diff!=null&&diff<0?'negative':'positive'}">\${change} · \${relative}</em></div>\`;\r
+}\r
+function stationMetric(st,label,key,unit,digits=2,percent=false,featured=false){\r
+  const pair=stationComparable(st,key);\r
+  return \`<div class="station-diagnostic-metric \${featured?'featured':''}"><span>\${label} \${metricHelp(key,label)}</span>\${stationPair(pair.current,pair.previous,unit,digits,percent)}</div>\`;\r
+}\r
+function stationBusyMetric(st,label,key,unit,digits=1,percent=false){\r
+  const {prior,partial}=stationComparison(st);\r
+  const current=st.busy?.[key],previous=prior&&!partial?prior.busy?.[key]:null;\r
+  return \`<div class="station-util-row"><span>\${label} \${metricHelp(key,label)}</span>\${stationPair(current,previous,unit,digits,percent)}</div>\`;\r
+}\r
+function stationPotential(st){\r
+  const {prior,partial}=stationComparison(st);\r
+  const estimate=site=>site?.busy?.idleHours!=null&&site?.busy?.power!=null?site.busy.idleHours*site.busy.power*state.busyCapture/100:null;\r
+  return stationPair(estimate(st),prior&&!partial?estimate(prior):null,'度',0);\r
+}\r
+function stationTou(st){\r
+  const {prior,partial}=stationComparison(st);\r
+  const keys=['尖','峰','平','谷','深谷'];\r
+  const colors=['#bd7951','#b69b5e','#7ba995','#398a72','#175e4b'];\r
+  const total=sum(keys.map(key=>Number(st.tou?.[key]||0)));\r
+  return \`<div class="station-tou">\${keys.map((key,index)=>{const current=st.tou?.[key],previous=prior&&!partial?prior.tou?.[key]:null;return \`<div class="station-tou-row"><span class="station-tou-name">\${key}时</span><div class="station-tou-track"><i style="width:\${total?Number(current||0)/total*100:0}%;background:\${colors[index]}"></i></div>\${stationPair(current,previous,'度',1)}</div>\`}).join('')}</div>\`;\r
+}\r
+function stationFlow(st){\r
+  const {prior,partial}=stationComparison(st),mode=state.flowMode;\r
+  const previousByName=Object.fromEntries((prior?.flows||[]).map(flow=>[flow.name,flow]));\r
+  const total=sum(st.flows.map(flow=>Number(flow[mode]||0)));\r
+  return \`<div class="station-tou">\${st.flows.map((flow,index)=>{const current=Number(flow[mode]||0),previous=prior&&!partial?previousByName[flow.name]?.[mode]:null;return \`<div class="station-tou-row"><span class="station-tou-name">\${safe(flow.name)}</span><div class="station-tou-track"><i style="width:\${total?current/total*100:0}%;background:\${flowColors[index]||'#679d82'}"></i></div>\${stationPair(current,previous,mode==='orders'?'笔':'度',mode==='orders'?0:1)}</div>\`}).join('')}</div>\`;\r
+}\r
+function renderStationReport(st){\r
+  const {partial,limit,prior,previousMonth}=stationComparison(st);\r
+  const busy=st.busy;\r
+  const note=siteIssue(st);\r
+  return \`<div class="on-enter station-report"><div class="station-report-intro"><span class="eyebrow">STATION PERFORMANCE / 单站经营诊断</span><h3>本月经营脉搏</h3><p>\${reportMonth} \${partial?'1—'+limit+'日对比 '+previousMonth+' 同期':'整月对比 '+previousMonth+' 整月'} · \${prior?'同名场站已关联':'上月场站暂无对比数据'}</p></div><div class="station-hero-grid">\${stationMetric(st,'充电总电量','kwh','度',1,false,true)}<div class="station-hero-side">\${stationMetric(st,'有效订单','valid','笔',0)}\${stationMetric(st,'订单服务费（应收）','service','元',2)}</div></div><div class="station-metric-rail">\${stationMetric(st,'单度订单服务费','perKwhService','元/度',3)}\${stationMetric(st,'枪日均服务费','gunDay','元/枪/日',2)}\${stationMetric(st,'时间利用率','util','%',2,true)}\${stationMetric(st,'可识别用户数','users','人',0)}\${stationMetric(st,'人均充电量','perUser','度/人',1)}\${stationMetric(st,'观察枪口数','gun','把',0)}</div><section class="station-report-section"><div class="station-report-heading"><span class="eyebrow">CAPACITY / 设备与承接</span><h3>忙时充电占用与提升空间</h3><p>订单观察到的充电行为，不能证明车位空闲或设备故障。</p></div><div class="station-util-list">\${stationBusyMetric(st,'忙时充电占用率','busyUtil','%',1,true)}\${stationBusyMetric(st,'忙时实际充电枪时','actualHours','小时',1)}\${stationBusyMetric(st,'理论未充电枪时','idleHours','小时',1)}\${stationBusyMetric(st,'订单平均功率','power','kW',1)}<div class="station-util-row"><span>设备可用情况 \${metricHelp('deviceAvailability','设备可用情况')}</span><b>待接设备记录</b></div><div class="station-util-row"><span>非充电占桩 \${metricHelp('parkingOccupancy','非充电占桩')}</span><b>待接停车记录</b></div></div><div class="detail-note">忙时为 \${busy.hours.map(h=>String(h).padStart(2,'0')+':00').join('、')}；理论未充电枪时不代表车辆停车占位或设备可用时间。</div><div class="station-potential"><div><span><span class="potential-caption">新增需求承接 \${state.busyCapture}% 时，模拟增量</span> \${metricHelp('potential','模拟增量')}</span><div id="potentialLabel">\${stationPotential(st)}</div></div><input type="range" min="0" max="40" step="5" class="busy-slider" id="busySlider" value="\${state.busyCapture}"/><p>理论未充电枪时 × 订单平均功率 × 承接率。仅为情景估算，不代表确定增量。</p></div></section><section class="station-report-section"><div class="station-report-heading"><span class="eyebrow">DAILY SIGNAL / 每日走势</span><h3>充电电量趋势</h3><p>悬停查看每日真实订单记录，结合异常订单和流量来源核查变化。</p></div><div class="inner-chart"><svg class="linechart" data-site-svg="1" viewBox="0 0 770 205" preserveAspectRatio="none">\${svgChart(st.daily.kwh,'kwh',true,false)}</svg></div><div class="detail-note">近7日电量变化 \${trendText(st.weekly.kwh)}；不能直接归因于调价、竞站或活动。</div></section><section class="station-report-section station-conclusion"><span class="eyebrow">DIAGNOSIS / 经营结论</span><h3>变化判断与核查建议</h3><p><b>需要核查：</b>\${safe(note.label)}。可切换“异常订单”定位具体订单；用户来源、分时电量和实际价格需要结合相应证据判断。</p></section></div>\`;\r
+}\r
+function renderStationUsersReport(st){\r
+  const userMetric=(label,key,unit,digits=1,percent=false)=>{\r
+    const pair=stationComparable(st,key);\r
+    const detail=key==='rollingRepeatRate'&&pair.current==null\r
+      ?'<div class="station-pair"><strong>待补历史数据</strong><small>上月：暂无对比数据</small><em>请重导可关联的上月订单</em></div>'\r
+      :stationPair(pair.current,pair.previous,unit,digits,percent);\r
+    return \`<div class="station-diagnostic-metric"><span>\${label} \${metricHelp(key,label)}</span>\${detail}</div>\`;\r
+  };\r
+  return \`<div class="on-enter station-report station-users-report">\r
+    <div class="station-report-intro"><span class="eyebrow">CUSTOMER & TARIFF / 用户与分时</span><h3>用户与流量结构</h3><p>同一自然月、同名场站对比；复购指标按去重后的跨月逐笔索引计算，缺少历史时不推算。</p></div>\r
+    <div class="station-audience">\r
+      <div class="station-audience-overview">\${userMetric('可识别用户数','users','人',0)}<div class="station-audience-overview-side">\${userMetric('人均充电量','perUser','度/人',1)}\${userMetric('订单识别覆盖率','userCoverage','%',1,true)}</div></div>\r
+      <div class="station-audience-retention"><div class="station-audience-label"><span class="eyebrow">LOYALTY / 复购与留存</span><span>本月有效充电用户</span></div><div class="station-audience-retention-grid">\${userMetric('本月复购率','repeatRate','%',1,true)}\${userMetric('30天滚动复购率','rollingRepeatRate','%',1,true)}\${userMetric('月内复购用户','repeatUsers','人',0)}\${userMetric('跨月留存','retentionRate','%',1,true)}</div></div>\r
+    </div>\r
+    <div class="detail-note warn">平台共用昵称不是个人用户ID。用户按可识别手机号去重；30天滚动复购允许跨月，旧快照缺少逐笔用户索引时显示暂无对比数据。</div>\r
+    <section class="station-report-section station-flow-section"><div class="panel-top"><h3>流量入口占比</h3><div class="seg"><button data-flowmode="orders" class="\${state.flowMode==='orders'?'on':''}">按订单</button><button data-flowmode="kwh" class="\${state.flowMode==='kwh'?'on':''}">按电量</button></div></div>\${stationFlow(st)}<div class="note">蚂蚁充电→新电途；快电→快电；数字1开头→蔚景云；其余→其他。蔚景云是流量渠道。</div></section>\r
+    <section class="station-report-section station-time-section"><div class="station-report-heading"><span class="eyebrow">TIME OF USE / 分时结构</span><h3>尖峰平谷电量</h3><p>每个时段均展示上月值与变化；缺少同期分时数据时明确标注。</p></div>\${stationTou(st)}<div class="note">仅展示订单分时电量，不据此推算月报购电成本或经营毛利。</div></section>\r
+  </div>\`;\r
+}\r
+const renderMetricDrawerBase=renderMetricDrawer;\r
+renderMetricDrawer=function(sc,metric){\r
+  if(state.metricSiteSearchMetric!==metric){state.metricSiteSearch='';state.metricSiteSearchMetric=metric}\r
+  const markup=renderMetricDrawerBase(sc,metric);\r
+  const search=\`<label class="metric-site-search"><span aria-hidden="true">⌕</span><input id="metricSiteSearch" type="search" aria-label="搜索场站名称" placeholder="搜索场站" value="\${safe(state.metricSiteSearch||'')}" autocomplete="off"></label>\`;\r
+  return markup.replace(/(<h3>[^<]* · 场站贡献与明细<\\/h3>)/,\`$1\${search}\`).replace('<div class="metric-site-list">','<div class="metric-search-empty" id="metricSearchEmpty" hidden>没有匹配的场站</div><div class="metric-site-list">');\r
+};\r
+function applyMetricSiteSearch(){\r
+  const root=document.getElementById('drawerBody'),rows=[...(root?.querySelectorAll?.('.metric-site-row')||[])];\r
+  const term=String(state.metricSiteSearch||'').trim().toLocaleLowerCase();let visible=0;\r
+  for(const row of rows){const name=row.querySelector('.metric-site-name b')?.textContent||'';row.hidden=!name.toLocaleLowerCase().includes(term);if(!row.hidden)visible++}\r
+  const empty=document.getElementById('metricSearchEmpty');if(empty)empty.hidden=visible>0||!term;\r
+}\r
+const paintDrawerBase=paintDrawer;\r
+paintDrawer=function(){paintDrawerBase();if(state.drawerType==='metric')applyMetricSiteSearch()};\r
+document.addEventListener('input',event=>{\r
+  if(event.target?.id!=='metricSiteSearch')return;\r
+  state.metricSiteSearch=event.target.value;applyMetricSiteSearch();\r
+});\r
+`,R=(i,o=0)=>new Intl.NumberFormat("zh-CN",{maximumFractionDigits:o}).format(Number(i)||0);function fe({periods:i,existing:o,onClose:$,onImported:u}){const[g,D]=l.useState(null),[d,j]=l.useState(null),[t,a]=l.useState(null),[m,x]=l.useState(!1),[M,S]=l.useState(""),[I,T]=l.useState(!1),k=o.find(r=>r.report_month===(t==null?void 0:t.month)),G=(k==null?void 0:k.source_sha256)===(t==null?void 0:t.sourceSha256),Y=Object.fromEntries(i.flatMap(r=>r.stations.map(f=>[String(X(f.cells,"D")??"").trim(),String(X(f.cells,"C")??"").trim()])).filter(([r])=>r)),V=async()=>{if(g){x(!0),S("正在本机解析工作簿，原始订单和手机号不会上传…");try{const{buildOrderPayload:r}=await re(async()=>{const{buildOrderPayload:L}=await import("./analysis-order-import-CG_SAEqo.js");return{buildOrderPayload:L}},__vite__mapDeps([0,1,2])),f=await r(g,Y,d||void 0,L=>{const h=o.find(K=>K.report_month===L),E=h==null?void 0:h.payload.userIndex;return E&&typeof E.keyId=="string"&&Array.isArray(E.events)?E:null});a(f),S("解析完成。请核对月份、汇总与待关联记录后再导入。")}catch(r){a(null),S(r instanceof Error?r.message:"订单解析失败")}finally{x(!1)}}},H=async r=>{if(t){x(!0),S("正在保存经去标识处理的经营分析快照…");try{await ae(t,r),u(t.month,t)}catch(f){S(f instanceof Error?f.message:"导入失败")}finally{x(!1)}}};return e.jsx("div",{className:"analysis-import-backdrop",onClick:$,children:e.jsxs("section",{className:"analysis-import-dialog",role:"dialog","aria-modal":"true","aria-label":"导入经营分析订单",onClick:r=>r.stopPropagation(),children:[e.jsxs("header",{children:[e.jsxs("div",{children:[e.jsx("small",{children:"ORDER DATA / 经营分析"}),e.jsx("h2",{children:"导入订单分析"}),e.jsx("p",{children:"在本机解析 Excel，仅将去标识的统计结果与异常订单证据保存到私有数据表。"})]}),e.jsx("button",{type:"button",className:"analysis-import-close",onClick:$,"aria-label":"关闭导入",children:e.jsx(ee,{size:19})})]}),e.jsxs("div",{className:"analysis-import-body",children:[e.jsxs("div",{className:"analysis-import-files",children:[e.jsxs("label",{children:[e.jsx("span",{children:"本月订单明细 · 必选"}),e.jsx("input",{type:"file",accept:".xlsx",onChange:r=>{var f;D(((f=r.target.files)==null?void 0:f[0])||null),a(null),T(!1)}}),e.jsx("strong",{children:(g==null?void 0:g.name)||"选择订单 Excel"})]}),e.jsxs("label",{children:[e.jsx("span",{children:"上月订单明细 · 可选"}),e.jsx("input",{type:"file",accept:".xlsx",onChange:r=>{var f;j(((f=r.target.files)==null?void 0:f[0])||null),a(null)}}),e.jsx("strong",{children:(d==null?void 0:d.name)||"用于计算跨月留存与流失"})]})]}),e.jsx("p",{className:"analysis-import-rule",children:"按交易号去重；仅统计已完成且电量大于 0 的有效充电；一心社区全部排除；无法确认运营商的记录列为待关联。服务费为订单应收，不替代财务月报收入或毛利。30 天滚动复购优先自动关联同一浏览器已导入的上月逐笔索引，也可选择上月原始文件；旧汇总快照缺少索引时需重导上月。"}),e.jsxs("button",{type:"button",className:"analysis-import-primary",disabled:!g||m,onClick:()=>void V(),children:[e.jsx(te,{size:16}),m?"处理中…":"解析并预览"]}),t&&e.jsxs("div",{className:"analysis-import-preview",children:[e.jsxs("h3",{children:[t.month," 订单汇总"]}),e.jsxs("div",{className:"analysis-import-stats",children:[e.jsxs("div",{children:[e.jsx("span",{children:"有效订单"}),e.jsxs("b",{children:[R(t.overall.stats.valid)," 笔"]})]}),e.jsxs("div",{children:[e.jsx("span",{children:"充电电量"}),e.jsxs("b",{children:[R(t.overall.stats.kwh,2)," 度"]})]}),e.jsxs("div",{children:[e.jsx("span",{children:"订单服务费"}),e.jsxs("b",{children:[R(t.overall.stats.service,2)," 元"]})]}),e.jsxs("div",{children:[e.jsx("span",{children:"有订单场站"}),e.jsxs("b",{children:[R(t.overall.stats.stations)," 站"]})]})]}),e.jsxs("p",{children:["五运营商：",t.operatorOrder.map(r=>`${r} ${t.operators[r].stats.stations} 站`).join(" · ")]}),e.jsxs("p",{children:["排除一心社区 ",t.excludedOrders," 笔；待关联 ",t.unmatchedOrders," 笔",t.unmatchedStations.length?`（${t.unmatchedStations.join("、")}）`:"","。"]}),e.jsxs("p",{children:["本月复购率：",t.overall.stats.repeatRate==null?"待核验":`${R(t.overall.stats.repeatRate,2)}%`,"；30 天滚动复购率：",t.overall.stats.rollingRepeatRate==null?"待补可关联的上月逐笔历史":`${R(t.overall.stats.rollingRepeatRate,2)}%`]}),e.jsxs("p",{children:["跨月留存：",t.overall.stats.retentionRate==null?"待关联上月文件":`${R(t.overall.stats.retentionRate,2)}%`]}),k&&e.jsxs("div",{className:"analysis-import-existing",children:["该月已有",k.status==="published"?"已发布":"预览","快照；",G?"源文件指纹相同，本次可补充上月留存信息。":"源文件指纹不同，新导入会保留旧版本，但最新版本将成为该月展示数据。"]}),k&&e.jsxs("label",{className:"analysis-import-confirm",children:[e.jsx("input",{type:"checkbox",checked:I,onChange:r=>T(r.target.checked)}),"已核对现有月份与本次结果，确认以新快照作为最新展示版本"]}),e.jsxs("div",{className:"analysis-import-actions",children:[e.jsx("button",{type:"button",disabled:m||!!k&&!I,onClick:()=>void H("preview"),children:"保存预览"}),e.jsx("button",{type:"button",className:"analysis-import-primary",disabled:m||!!k&&!I,onClick:()=>void H("published"),children:"确认导入并发布"})]})]}),M&&e.jsx("p",{className:"analysis-import-message",role:"status",children:M})]})]})})}const B=i=>typeof i=="number"&&Number.isFinite(i)?i:null,N=(i,o=2)=>new Intl.NumberFormat("zh-CN",{maximumFractionDigits:o}).format(i),Q=(i,o,$)=>i===null?"当前缺值":o===null?"上月暂无对比数据":`${i-o>=0?"+":""}${N(i-o)} ${$}${o!==0?`；环比 ${N((i-o)/Math.abs(o)*100,1)}%`:"；上月为零，环比率不计算"}`;function ge({current:i,previous:o,onClose:$}){const u=[["有效订单","valid","笔"],["充电电量","kwh","度"],["订单服务费（应收）","service","元"],["有订单场站","stations","站"]],g=i.stations,D=(o==null?void 0:o.stations)||{},d=Object.entries(g).flatMap(([a,m])=>{const x=D[a],M=B(m.kwh),S=B(x==null?void 0:x.kwh);return M!==null&&S!==null?[{name:a,current:M,prior:S,delta:M-S}]:[]}).sort((a,m)=>Math.abs(m.delta)-Math.abs(a.delta)).slice(0,8),j=Object.keys(g).filter(a=>!D[a]),t=new Set(Object.values(i.ruleIndexes).flat()).size;return e.jsx("div",{className:"dash-modal-backdrop",onClick:$,children:e.jsxs("div",{className:"dash-modal import-analysis-dialog",role:"dialog","aria-modal":"true","aria-label":"分析本次订单导入数据",onClick:a=>a.stopPropagation(),children:[e.jsxs("div",{className:"dash-modal-head",children:[e.jsxs("div",{children:[e.jsx("h2",{children:"分析本次导入数据 · 订单"}),e.jsxs("p",{children:[i.month," · 已去重有效订单；对照上一自然月已发布订单快照"]})]}),e.jsx("button",{onClick:$,"aria-label":"关闭分析",children:e.jsx(ee,{size:20})})]}),e.jsxs("div",{className:"dash-modal-body",children:[e.jsx("h3",{children:"经营变化"}),e.jsx("div",{className:"import-analysis-findings",children:u.map(([a,m,x])=>e.jsxs("div",{className:"import-analysis-finding",children:[e.jsx("b",{children:a}),e.jsxs("p",{children:["本月 ",N(B(i.overall.stats[m])||0)," ",x,"；",Q(B(i.overall.stats[m]),B(o==null?void 0:o.overall.stats[m]),x)]})]},m))}),e.jsx("h3",{children:"异常与核查"}),e.jsxs("p",{children:["本月异常标记 ",N(t,0)," 条；待关联订单 ",N(i.unmatchedOrders,0)," 笔；排除一心社区 ",N(i.excludedOrders,0)," 笔。异常标记可能重叠，不等于已确认经营损失。"]}),e.jsx("h3",{children:"站点电量变化"}),o?e.jsxs("div",{className:"import-analysis-findings",children:[d.map(a=>e.jsxs("div",{className:"import-analysis-finding check",children:[e.jsx("b",{children:a.name}),e.jsxs("p",{children:["上月 ",N(a.prior)," 度 → 本月 ",N(a.current)," 度；",Q(a.current,a.prior,"度"),"。具体原因待核对订单、价格与设备记录。"]})]},a.name)),j.length>0&&e.jsxs("div",{className:"import-analysis-finding",children:[e.jsxs("b",{children:["本月新增订单记录 ",j.length," 站"]}),e.jsxs("p",{children:[j.slice(0,6).join("、"),j.length>6?"等":"","；不等于新建站。"]})]})]}):e.jsx("p",{children:"上月订单快照缺失；不推算站点环比。"}),e.jsx("p",{className:"dash-caption",children:"订单应收服务费仅作运营分析，不代替财务实际收入或毛利；变化原因需要进一步证据核查。"})]})]})})}function he({onNavigate:i,onMonthChange:o,onFinanceImport:$,canEdit:u}){const{periods:g}=ne(),D=l.useRef(null),[d,j]=l.useState([]),[t,a]=l.useState(""),[m,x]=l.useState(""),[M,S]=l.useState(!0),[I,T]=l.useState(!1),[k,G]=l.useState(null),[Y,V]=l.useState(null),[H,r]=l.useState(!1),[f,L]=l.useState(0);l.useEffect(()=>{let p=!0,n;return Promise.race([ie(),new Promise((c,b)=>{n=window.setTimeout(()=>b(new Error("经营分析数据读取超时，请检查网络后重试")),12e3)})]).then(c=>{p&&(j(c),a(b=>{var v;return c.some(w=>w.report_month===b)?b:((v=c[0])==null?void 0:v.report_month)??""}),x(""))}).catch(c=>{p&&x(c instanceof Error?c.message:"经营分析暂不可用")}).finally(()=>{window.clearTimeout(n),p&&S(!1)}),()=>{p=!1,window.clearTimeout(n)}},[u,f]),l.useEffect(()=>{const p=n=>{var z,c,b,v,w;if(n.source===((z=D.current)==null?void 0:z.contentWindow)&&(((c=n.data)==null?void 0:c.type)==="sijiu-analysis-home"&&i("/"),((b=n.data)==null?void 0:b.type)==="sijiu-analysis-import-open"&&u&&T(!0),((v=n.data)==null?void 0:v.type)==="sijiu-finance-import-open"&&u&&$(),((w=n.data)==null?void 0:w.type)==="sijiu-analysis-summary-save")){const _=d.find(C=>C.report_month===n.data.month),O=(C,W)=>{var A,F;return(F=(A=D.current)==null?void 0:A.contentWindow)==null?void 0:F.postMessage({type:"sijiu-analysis-summary-result",ok:C,message:W,operator:n.data.operator,notes:n.data.notes},"*")};if(!u||!_){O(!1,"仅管理端可以保存当前月份摘要");return}oe(_,String(n.data.operator),n.data.notes??{}).then(()=>O(!0,"经营摘要已保存")).catch(C=>O(!1,C instanceof Error?C.message:"保存失败"))}};return window.addEventListener("message",p),()=>window.removeEventListener("message",p)},[i,$,d,u]);const h=d.find(p=>p.report_month===t);l.useEffect(()=>{t&&o(t)},[t,o]);const E=(h==null?void 0:h.payload.analysisSchemaVersion)===2,K=l.useMemo(()=>{var J,Z;if(!h)return"";const p=JSON.stringify(h.payload).replace(/</g,"\\u003c").replace(/\u2028/g,"\\u2028").replace(/\u2029/g,"\\u2029"),n=new Date(Date.UTC(Number(t.slice(0,4)),Number(t.slice(5))-2,1)).toISOString().slice(0,7),z=((J=d.find(s=>s.report_month===n))==null?void 0:J.payload)??null,c=new Date(Date.UTC(Number(n.slice(0,4)),Number(n.slice(5))-2,1)).toISOString().slice(0,7),b=((Z=d.find(s=>s.report_month===c))==null?void 0:Z.payload)??null,v=g.find(s=>s.month===t),w=g.find(s=>s.month===n),_=s=>Object.fromEntries(((s==null?void 0:s.stations)??[]).map(U=>[String(X(U.cells,"D")??""),{grossYuan:P(U.cells,"K")}]).filter(([U])=>U)),O=JSON.stringify({previous:z,beforePrevious:b,finance:v?{grossWan:P(v.overview,"P"),revenueWan:P(v.overview,"O")}:null,previousFinance:w?{grossWan:P(w.overview,"P"),revenueWan:P(w.overview,"O")}:null,stationFinance:_(v),previousStationFinance:_(w)}).replace(/</g,"\\u003c"),C=d.map(s=>`<option value="${s.report_month}" ${s.report_month===t?"selected":""}>${s.report_month.slice(0,4)}年${Number(s.report_month.slice(5))}月</option>`).join(""),W=Array.isArray(h.payload.operatorOrder)?h.payload.operatorOrder.filter(s=>typeof s=="string"):[],A=s=>s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/"/g,"&quot;"),F=W.map(s=>`<option value="${A(s)}">${A(s)}</option>`).join("");let y=se.replace("</style>",`.app,.app.nav-compact{display:block}.sidebar{display:none}.workspace{width:100%}.topbar{position:relative;height:58px;justify-content:flex-end}.topbar .crumb{display:none}main{max-width:1690px}
 ${le}${de}${ce}${ue}</style>`).replace(/<script>\s*const DB=/,`<script>
 window.__REPORT_DATA__=${p};
 window.__REPORT_INTELLIGENCE_CONTEXT__=${O};
 window.__REPORT_ADMIN__=${JSON.stringify(u)};
 const DB=`);return y=y.replace('<option value="2026-10">2026年10月</option>',C),y=y.replace('<option value="all">全部运营商</option></select>',`<option value="all">全部运营商</option>${F}</select>`),u&&(y=y.replace('<button class="btn primary" id="btnExport">','<button class="btn" id="btnImportFinance">导入月报文件</button><button class="btn" id="btnImportOrders">导入订单分析</button><button class="btn primary" id="btnExport">')),y=y.replace('id="monthSelect" aria-label="统计月份"','id="monthSelect" aria-label="统计月份"'),y=y.replace("renderAll();initEvents();",`${me}
-renderAll();initEvents();`),y=y.replace("</body>",`<script>${pe}<\/script><script>document.getElementById('monthSelect').addEventListener('change',event=>parent.postMessage({type:'sijiu-analysis-month',month:event.target.value},'*'));document.getElementById('btnImportFinance')?.addEventListener('click',()=>parent.postMessage({type:'sijiu-finance-import-open'},'*'));document.getElementById('btnImportOrders')?.addEventListener('click',()=>parent.postMessage({type:'sijiu-analysis-import-open'},'*'));<\/script></body>`),y},[t,h,d,g,u]);l.useEffect(()=>{const p=n=>{var z,c;n.source===((z=D.current)==null?void 0:z.contentWindow)&&((c=n.data)==null?void 0:c.type)==="sijiu-analysis-month"&&d.some(b=>b.report_month===n.data.month)&&r(n.data.month)};return window.addEventListener("message",p),()=>window.removeEventListener("message",p)},[d]);const q=e.jsxs(e.Fragment,{children:[I&&u&&e.jsx(fe,{periods:g,existing:d,onClose:()=>T(!1),onImported:(p,n)=>{var v;const[z,c]=p.split("-").map(Number),b=new Date(Date.UTC(z,c-2,1)).toISOString().slice(0,7);G(n),V(((v=d.find(w=>w.report_month===b))==null?void 0:v.payload)||null),T(!1),a(!0),r(p),L(w=>w+1)}}),H&&k&&e.jsx(ge,{current:k,previous:Y,onClose:()=>a(!1)})]});return m?e.jsxs("div",{className:"analysis-preview-status",children:[e.jsx("h1",{children:"经营分析暂不可用"}),e.jsx("p",{children:m}),e.jsx("button",{onClick:()=>window.location.reload(),children:"重试"})]}):h?E?e.jsxs(e.Fragment,{children:[e.jsx("iframe",{ref:D,title:"经营分析三层预览",className:"analysis-preview-frame",srcDoc:K,sandbox:"allow-scripts allow-same-origin allow-downloads"}),u&&k&&e.jsx("button",{className:"analysis-import-review",type:"button",onClick:()=>a(!0),children:"分析本次导入数据"}),q]}):e.jsxs(e.Fragment,{children:[e.jsxs("div",{className:"analysis-preview-status",children:[e.jsx("h1",{children:"该月订单数据需要重新导入"}),e.jsx("p",{children:"当前快照尚未应用五运营商归属及一心社区排除规则，请由管理端核对 Excel 后生成新版快照。"}),u&&e.jsx("button",{onClick:()=>T(!0),children:"导入订单分析"})]}),q]}):e.jsxs(e.Fragment,{children:[e.jsxs("div",{className:"analysis-preview-status",children:[e.jsx("h1",{children:M?"正在读取经营分析数据…":d.length?"请选择月份":"当前账号没有可查看的经营分析预览"}),!M&&e.jsx("button",{onClick:()=>window.location.reload(),children:"重试"}),u&&!M&&e.jsxs(e.Fragment,{children:[e.jsx("button",{onClick:$,children:"导入月报文件"}),e.jsx("button",{onClick:()=>T(!0),children:"导入订单分析"})]})]}),q]})}export{he as default};
+renderAll();initEvents();`),y=y.replace("</body>",`<script>${pe}<\/script><script>document.getElementById('monthSelect').addEventListener('change',event=>parent.postMessage({type:'sijiu-analysis-month',month:event.target.value},'*'));document.getElementById('btnImportFinance')?.addEventListener('click',()=>parent.postMessage({type:'sijiu-finance-import-open'},'*'));document.getElementById('btnImportOrders')?.addEventListener('click',()=>parent.postMessage({type:'sijiu-analysis-import-open'},'*'));<\/script></body>`),y},[t,h,d,g,u]);l.useEffect(()=>{const p=n=>{var z,c;n.source===((z=D.current)==null?void 0:z.contentWindow)&&((c=n.data)==null?void 0:c.type)==="sijiu-analysis-month"&&d.some(b=>b.report_month===n.data.month)&&a(n.data.month)};return window.addEventListener("message",p),()=>window.removeEventListener("message",p)},[d]);const q=e.jsxs(e.Fragment,{children:[I&&u&&e.jsx(fe,{periods:g,existing:d,onClose:()=>T(!1),onImported:(p,n)=>{var v;const[z,c]=p.split("-").map(Number),b=new Date(Date.UTC(z,c-2,1)).toISOString().slice(0,7);G(n),V(((v=d.find(w=>w.report_month===b))==null?void 0:v.payload)||null),T(!1),r(!0),a(p),L(w=>w+1)}}),H&&k&&e.jsx(ge,{current:k,previous:Y,onClose:()=>r(!1)})]});return m?e.jsxs("div",{className:"analysis-preview-status",children:[e.jsx("h1",{children:"经营分析暂不可用"}),e.jsx("p",{children:m}),e.jsx("button",{onClick:()=>window.location.reload(),children:"重试"})]}):h?E?e.jsxs(e.Fragment,{children:[e.jsx("iframe",{ref:D,title:"经营分析三层预览",className:"analysis-preview-frame",srcDoc:K,sandbox:"allow-scripts allow-same-origin allow-downloads"}),u&&k&&e.jsx("button",{className:"analysis-import-review",type:"button",onClick:()=>r(!0),children:"分析本次导入数据"}),q]}):e.jsxs(e.Fragment,{children:[e.jsxs("div",{className:"analysis-preview-status",children:[e.jsx("h1",{children:"该月订单数据需要重新导入"}),e.jsx("p",{children:"当前快照尚未应用五运营商归属及一心社区排除规则，请由管理端核对 Excel 后生成新版快照。"}),u&&e.jsx("button",{onClick:()=>T(!0),children:"导入订单分析"})]}),q]}):e.jsxs(e.Fragment,{children:[e.jsxs("div",{className:"analysis-preview-status",children:[e.jsx("h1",{children:M?"正在读取经营分析数据…":d.length?"请选择月份":"当前账号没有可查看的经营分析预览"}),!M&&e.jsx("button",{onClick:()=>window.location.reload(),children:"重试"}),u&&!M&&e.jsxs(e.Fragment,{children:[e.jsx("button",{onClick:$,children:"导入月报文件"}),e.jsx("button",{onClick:()=>T(!0),children:"导入订单分析"})]})]}),q]})}export{he as default};
